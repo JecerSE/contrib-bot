@@ -1,0 +1,26 @@
+name: contribute
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, 03:17 UTC (11:17 PHT)
+  workflow_dispatch: # lets you trigger a run by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  contribute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Make 1-5 random commits
+        env:
+          GIT_AUTHOR_NAME: Pursion
+          GIT_AUTHOR_EMAIL: egagamaojecer@gmail.com
+          GIT_COMMITTER_NAME: Pursion
+          GIT_COMMITTER_EMAIL: egagamaojecer@gmail.com
+        run: bash scripts/contribute.sh
+
+      - name: Push
+        run: git push
