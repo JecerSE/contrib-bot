@@ -20,3 +20,4 @@
 - `2026-10-09 10:30:26` `8c6e2960` skim the backlog
 - `2026-10-10 09:47:50` `534eaf31` fold the paper cranes
 - `2026-10-10 09:47:50` `f6538dcc` leave it better than you found it
+- `2026-10-10 09:47:50` `96d2dc71` dust off the shelves
