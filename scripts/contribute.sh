@@ -4,7 +4,7 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 min=${MIN_COMMITS:-1}
-max=${MAX_COMMITS:-5}
+max=${MAX_COMMITS:-50}
 count=$(( RANDOM % (max - min + 1) + min ))
 
 for i in $(seq 1 "$count"); do
