@@ -122,3 +122,4 @@
 - `2026-10-13 10:32:16` `87d9b27b` tidy up the log
 - `2026-10-13 10:32:16` `882e13a6` leave it better than you found it
 - `2026-10-13 10:32:16` `0f405a68` rename nothing
+- `2026-10-13 10:32:16` `291638d6` reticulate splines
