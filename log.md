@@ -136,3 +136,4 @@
 - `2026-10-14 08:40:50` `ae1648bd` shuffle the deck
 - `2026-10-14 08:40:50` `ac7eea44` tidy up the log
 - `2026-10-14 08:40:50` `3f7edc84` note to self: drink water
+- `2026-10-14 08:40:50` `8c6563e0` skim the backlog
