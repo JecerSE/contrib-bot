@@ -175,3 +175,4 @@
 - `2026-10-15 08:15:29` `5d4deab0` tidy up the log
 - `2026-10-15 08:15:29` `f028e12d` leave it better than you found it
 - `2026-10-15 08:15:29` `ea0886c3` defragment thoughts
+- `2026-10-15 08:15:29` `16373bde` skim the backlog
