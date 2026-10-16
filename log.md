@@ -223,3 +223,4 @@
 - `2026-10-16 08:08:02` `d4820629` untangle the cables
 - `2026-10-16 08:08:02` `b4dc7c52` dust off the shelves
 - `2026-10-16 08:08:02` `be4c23cf` small steps
+- `2026-10-16 08:08:02` `9f22722d` sort the socks
