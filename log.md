@@ -305,3 +305,4 @@
 - `2026-10-20 08:29:48` `9f86d430` “Doctor, when this is all over, let us build a world where no one has to ask whether they deserve to live.”
 - `2026-10-20 08:29:48` `f1dc7c01` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
 - `2026-10-20 08:29:48` `08e38a67` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
+- `2026-10-20 08:29:48` `93c93607` “Even now, after everything, I still want to believe that people can choose differently.”
