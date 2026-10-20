@@ -319,3 +319,4 @@
 - `2026-10-20 08:29:48` `b33bb6b9` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
 - `2026-10-20 08:29:48` `e391ecf6` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-10-20 08:29:48` `4f1e2edd` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
+- `2026-10-20 08:29:48` `d8115186` “The most dangerous lie is the one that makes cruelty feel necessary.”
