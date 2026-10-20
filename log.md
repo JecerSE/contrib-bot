@@ -299,3 +299,4 @@
 - `2026-10-20 08:29:48` `73f5819e` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-10-20 08:29:48` `ee2734d5` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-10-20 08:29:48` `86ead6e3` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
+- `2026-10-20 08:29:48` `180de044` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
