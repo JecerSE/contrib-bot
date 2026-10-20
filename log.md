@@ -303,3 +303,4 @@
 - `2026-10-20 08:29:48` `3b39bb03` “A name is the smallest monument we can give someone who has disappeared.”
 - `2026-10-20 08:29:48` `c1222756` “The world will always find a reason to wage war. We must find a better reason to end one.”
 - `2026-10-20 08:29:48` `9f86d430` “Doctor, when this is all over, let us build a world where no one has to ask whether they deserve to live.”
+- `2026-10-20 08:29:48` `f1dc7c01` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
