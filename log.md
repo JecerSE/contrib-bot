@@ -321,3 +321,4 @@
 - `2026-10-20 08:29:48` `4f1e2edd` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-10-20 08:29:48` `d8115186` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-10-20 08:29:48` `e9002201` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
+- `2026-10-20 08:29:48` `36c463cd` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
