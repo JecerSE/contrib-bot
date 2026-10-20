@@ -1,30 +1,100 @@
-tidy up the log
-note to self: drink water
-rotate the entropy
-water the plants
-polish a semicolon
-feed the cat (metaphorically)
-sharpen the pencils
-count the stars again
-reticulate splines
-defragment thoughts
-dust off the shelves
-retune the radio
-refill the coffee
-check the weather
-sort the socks
-realign the moon
-oil the hinges
-rename nothing
-shuffle the deck
-listen to the rain
-wind the clock
-straighten the frames
-untangle the cables
-fold the paper cranes
-skim the backlog
-stretch
-take a short walk
-write it down
-leave it better than you found it
-small steps
+“In a world that has forgotten kindness, even a small mercy becomes an act of rebellion.”
+“We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
+“Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
+“The dead do not ask for revenge. It is the living who refuse to let them rest.”
+“A monster is simply a person whose suffering no one bothered to understand.”
+“History remembers the victors. The land remembers everyone.”
+“If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
+“You call it peace because you have never been the one forced to kneel.”
+“There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
+“Even now, after everything, I still want to believe that people can choose differently.”
+“We were born beneath the same sky, yet somehow learned to call one another enemies.”
+“Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
+“The cruelest chains are those we convince ourselves we deserve.”
+“A flag cannot bury the people who died beneath it.”
+“Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
+“I have seen heroes become tyrants and villains die protecting strangers. The world is rarely so simple.”
+“The snow covers every footprint eventually. It does not mean no one ever walked there.”
+“We call them casualties because numbers are easier to mourn than names.”
+“If you must hate someone, at least have the courage to look them in the eyes.”
+“The future does not belong to those who predict it, but to those who refuse to surrender it.”
+“There are wounds that medicine cannot heal and apologies that arrive too late.”
+“A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
+“You cannot save everyone. But that does not make the ones you save insignificant.”
+“The world does not become kinder merely because we have suffered enough.”
+“I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
+“Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
+“We inherited a broken world. That does not give us permission to break it further.”
+“Hope is an unreasonable thing. Perhaps that is precisely why we need it.”
+“The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
+“A name is the smallest monument we can give someone who has disappeared.”
+“If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
+“Some people carry swords. Others carry the memory of everyone those swords have killed.”
+“I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
+“The innocent are not protected by good intentions. Someone must stand between them and the world.”
+“You cannot build a home by teaching everyone inside it to fear the door.”
+“Sometimes the bravest thing a warrior can do is put down their weapon.”
+“The past is not a prison unless we keep rebuilding its walls.”
+“We survived the catastrophe, yet somehow forgot how to live.”
+“There is no glory in war for those who must live with its consequences.”
+“I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+“What is a nation worth if its people must disappear for it to survive?”
+“The world calls us dangerous because it is easier than admitting what made us this way.”
+“A thousand speeches cannot replace one honest act of mercy.”
+“I remember every face I failed to save. That is why I cannot afford to stop.”
+“Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
+“The strongest walls are often built by those who are most afraid.”
+“Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
+“We wanted a better world. Somewhere along the way, we began deciding who deserved to live in it.”
+“The dead may be beyond our reach, but the living are still our responsibility.”
+“I have no faith in destiny. I have faith in the person who chooses to defy it.”
+“A child should never have to understand why the world hates them.”
+“When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
+“You cannot undo a tragedy by becoming the next person who causes one.”
+“Perhaps we are all just trying to find somewhere the world cannot hurt us.”
+“The most dangerous lie is the one that makes cruelty feel necessary.”
+“I have seen people smile at their executioners because they refused to let fear own their final moment.”
+“A promise made to the dead is meaningless if we abandon the living to keep it.”
+“We speak of sacrifice as though suffering automatically makes us righteous.”
+“If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
+“The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
+“You may defeat an army and still lose everything worth defending.”
+“No one is born wanting to become a weapon. Someone always teaches them.”
+“The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+“I do not need the world to forgive me. I need it to stop making the same mistakes.”
+“Even a dying civilization leaves someone behind who remembers how to plant a seed.”
+“We cannot demand that people trust us while refusing to tell them what we are doing.”
+“A hero is often just the person who remained when everyone else found a reason to leave.”
+“There is a difference between enduring suffering and convincing yourself that suffering is all you deserve.”
+“If mercy is weakness, then perhaps the world has misunderstood strength.”
+“I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
+“Every fallen enemy was someone else's reason to keep going.”
+“The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+“We do not owe the past our obedience. We owe the future our honesty.”
+“A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
+“When the last light disappears, someone must remember that darkness was never the same thing as emptiness.”
+“You cannot save a person by taking away every choice that makes them human.”
+“Perhaps courage is simply being afraid and refusing to let fear make every decision.”
+“I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
+“The world will always find a reason to wage war. We must find a better reason to end one.”
+“A person who has lost everything can still decide what they will become next.”
+“We call it the cost of progress when we do not want to admit who paid the price.”
+“Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
+“The future is not innocent simply because it has not happened yet.”
+“Sometimes the people who need saving most are the ones who have forgotten how to ask.”
+“A single act of kindness cannot repair the world, but it can change the world of the person who receives it.”
+“The tragedy of immortality would not be living forever. It would be watching every reason to live disappear.”
+“We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
+“If you believe your cause is just, you should be willing to question it.”
+“The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
+“A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
+“There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
+“No ideology can absolve a person of the suffering they knowingly inflict.”
+“I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
+“Even if the world cannot be saved, the person standing beside you can still be worth saving.”
+“The past may explain our hatred, but it cannot excuse what we do with it.”
+“A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
+“We are not innocent merely because our enemies are cruel.”
+“When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
+“One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
+“Doctor, when this is all over, let us build a world where no one has to ask whether they deserve to live.”
