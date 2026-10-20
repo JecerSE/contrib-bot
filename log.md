@@ -308,3 +308,4 @@
 - `2026-10-20 08:29:48` `93c93607` “Even now, after everything, I still want to believe that people can choose differently.”
 - `2026-10-20 08:29:48` `b89516b6` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-10-20 08:29:48` `66fe3b3c` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-10-20 08:29:48` `74e9b30a` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
