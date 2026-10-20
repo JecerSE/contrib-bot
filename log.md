@@ -311,3 +311,4 @@
 - `2026-10-20 08:29:48` `74e9b30a` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-10-20 08:29:48` `29801f1a` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-20 08:29:48` `6d914523` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
+- `2026-10-20 08:29:48` `c9e0b207` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
