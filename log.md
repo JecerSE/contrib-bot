@@ -301,3 +301,4 @@
 - `2026-10-20 08:29:48` `86ead6e3` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
 - `2026-10-20 08:29:48` `180de044` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
 - `2026-10-20 08:29:48` `3b39bb03` “A name is the smallest monument we can give someone who has disappeared.”
+- `2026-10-20 08:29:48` `c1222756` “The world will always find a reason to wage war. We must find a better reason to end one.”
