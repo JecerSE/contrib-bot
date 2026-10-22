@@ -341,3 +341,4 @@
 - `2026-10-22 08:34:14` `075084a8` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-10-22 08:34:14` `02032f0c` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-10-22 08:34:14` `d1d0b30f` “If you must hate someone, at least have the courage to look them in the eyes.”
+- `2026-10-22 08:34:14` `12610286` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
