@@ -336,3 +336,4 @@
 - `2026-10-22 08:34:13` `d6ed529f` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-10-22 08:34:13` `434c57ba` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
 - `2026-10-22 08:34:13` `9f4f130b` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-10-22 08:34:13` `00f87c7f` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
