@@ -327,3 +327,4 @@
 - `2026-10-21 08:31:47` `cc212770` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-10-22 08:34:13` `9f2f3af7` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
 - `2026-10-22 08:34:13` `381a09f9` “History remembers the victors. The land remembers everyone.”
+- `2026-10-22 08:34:13` `d2e63de4` “A hero is often just the person who remained when everyone else found a reason to leave.”
