@@ -332,3 +332,4 @@
 - `2026-10-22 08:34:13` `1f957680` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-10-22 08:34:13` `99bfb3bf` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
 - `2026-10-22 08:34:13` `e7c3b2a6` “If you believe your cause is just, you should be willing to question it.”
+- `2026-10-22 08:34:13` `d255154b` “What is a nation worth if its people must disappear for it to survive?”
