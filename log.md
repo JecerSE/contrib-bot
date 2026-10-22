@@ -338,3 +338,4 @@
 - `2026-10-22 08:34:13` `9f4f130b` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-22 08:34:13` `00f87c7f` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-10-22 08:34:14` `9b7f33cf` “The strongest walls are often built by those who are most afraid.”
+- `2026-10-22 08:34:14` `075084a8` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
