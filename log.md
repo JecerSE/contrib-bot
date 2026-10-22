@@ -330,3 +330,4 @@
 - `2026-10-22 08:34:13` `d2e63de4` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-10-22 08:34:13` `f4d8274f` “The world calls us dangerous because it is easier than admitting what made us this way.”
 - `2026-10-22 08:34:13` `1f957680` “No one is born wanting to become a weapon. Someone always teaches them.”
+- `2026-10-22 08:34:13` `99bfb3bf` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
