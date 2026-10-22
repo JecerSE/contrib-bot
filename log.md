@@ -334,3 +334,4 @@
 - `2026-10-22 08:34:13` `e7c3b2a6` “If you believe your cause is just, you should be willing to question it.”
 - `2026-10-22 08:34:13` `d255154b` “What is a nation worth if its people must disappear for it to survive?”
 - `2026-10-22 08:34:13` `d6ed529f` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
+- `2026-10-22 08:34:13` `434c57ba` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
