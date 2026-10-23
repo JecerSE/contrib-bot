@@ -362,3 +362,4 @@
 - `2026-10-23 08:30:04` `4865b99e` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-23 08:30:04` `80bea04b` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-10-23 08:30:04` `de979769` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
+- `2026-10-23 08:30:04` `219e6c23` “A child should never have to understand why the world hates them.”
