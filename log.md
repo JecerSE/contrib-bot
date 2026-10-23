@@ -349,3 +349,4 @@
 - `2026-10-23 08:30:03` `21418ac3` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
 - `2026-10-23 08:30:03` `fbf4d777` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-10-23 08:30:03` `a0b9b31f` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-10-23 08:30:03` `5726e36b` “If you believe your cause is just, you should be willing to question it.”
