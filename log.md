@@ -347,3 +347,4 @@
 - `2026-10-23 08:30:03` `728b3c86` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-23 08:30:03` `b41768ae` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-10-23 08:30:03` `21418ac3` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
+- `2026-10-23 08:30:03` `fbf4d777` “The dead may be beyond our reach, but the living are still our responsibility.”
