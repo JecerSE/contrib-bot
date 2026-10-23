@@ -351,3 +351,4 @@
 - `2026-10-23 08:30:03` `a0b9b31f` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-23 08:30:03` `5726e36b` “If you believe your cause is just, you should be willing to question it.”
 - `2026-10-23 08:30:03` `147ce3c4` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
+- `2026-10-23 08:30:03` `17d028c0` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
