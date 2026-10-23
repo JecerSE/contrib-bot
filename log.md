@@ -360,3 +360,4 @@
 - `2026-10-23 08:30:03` `05762481` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-10-23 08:30:04` `694300de` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-10-23 08:30:04` `4865b99e` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
+- `2026-10-23 08:30:04` `80bea04b` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
