@@ -377,3 +377,4 @@
 - `2026-10-24 08:05:32` `aea49ed9` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-10-24 08:05:32` `3e571f6f` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-10-24 08:05:32` `e4cf2ca6` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-10-24 08:05:32` `89646e1d` “The cruelest chains are those we convince ourselves we deserve.”
