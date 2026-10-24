@@ -370,3 +370,4 @@
 - `2026-10-24 08:05:32` `bff8d1a0` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
 - `2026-10-24 08:05:32` `c4f9a527` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-10-24 08:05:32` `c3c53b7d` “The strongest walls are often built by those who are most afraid.”
+- `2026-10-24 08:05:32` `d3740110` “No one is born wanting to become a weapon. Someone always teaches them.”
