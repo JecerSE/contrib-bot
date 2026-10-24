@@ -382,3 +382,4 @@
 - `2026-10-24 08:05:32` `526512e6` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-10-24 08:05:32` `16ea8d46` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-10-24 08:05:32` `a2c40aea` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-10-24 08:05:32` `b9b90166` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
