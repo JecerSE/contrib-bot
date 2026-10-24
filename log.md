@@ -378,3 +378,4 @@
 - `2026-10-24 08:05:32` `3e571f6f` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-10-24 08:05:32` `e4cf2ca6` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-10-24 08:05:32` `89646e1d` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-10-24 08:05:32` `f01d8e95` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
