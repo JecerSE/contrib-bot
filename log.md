@@ -367,3 +367,4 @@
 - `2026-10-23 08:30:04` `f53f2aa3` “A child should never have to understand why the world hates them.”
 - `2026-10-23 08:30:04` `ddd71eab` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
 - `2026-10-23 08:30:04` `be498952` “What is a nation worth if its people must disappear for it to survive?”
+- `2026-10-24 08:05:32` `bff8d1a0` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
