@@ -381,3 +381,4 @@
 - `2026-10-24 08:05:32` `f01d8e95` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-24 08:05:32` `526512e6` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-10-24 08:05:32` `16ea8d46` “A hero is often just the person who remained when everyone else found a reason to leave.”
+- `2026-10-24 08:05:32` `a2c40aea` “The past may explain our hatred, but it cannot excuse what we do with it.”
