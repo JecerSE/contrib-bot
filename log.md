@@ -384,3 +384,4 @@
 - `2026-10-24 08:05:32` `a2c40aea` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-10-24 08:05:32` `b9b90166` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
 - `2026-10-25 08:22:33` `e6b92cf5` “Sometimes the bravest thing a warrior can do is put down their weapon.”
+- `2026-10-25 08:22:34` `0acf4593` “The dead may be beyond our reach, but the living are still our responsibility.”
