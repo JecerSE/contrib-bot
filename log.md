@@ -391,3 +391,4 @@
 - `2026-10-25 08:22:34` `2b82a176` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-10-25 08:22:34` `4806dfe1` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-10-25 08:22:34` `45be1891` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
+- `2026-10-25 08:22:34` `d86e1a98` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
