@@ -398,3 +398,4 @@
 - `2026-10-25 08:22:34` `c7dd1c3b` “A name is the smallest monument we can give someone who has disappeared.”
 - `2026-10-25 08:22:34` `602b01e7` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-10-25 08:22:34` `b22267d7` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
+- `2026-10-25 08:22:34` `a98e74de` “Sometimes the bravest thing a warrior can do is put down their weapon.”
