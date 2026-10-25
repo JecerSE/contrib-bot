@@ -394,3 +394,4 @@
 - `2026-10-25 08:22:34` `d86e1a98` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-25 08:22:34` `dca7174a` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-10-25 08:22:34` `8e336545` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
+- `2026-10-25 08:22:34` `9f38546b` “We call it the cost of progress when we do not want to admit who paid the price.”
