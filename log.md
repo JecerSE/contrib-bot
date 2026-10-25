@@ -397,3 +397,4 @@
 - `2026-10-25 08:22:34` `9f38546b` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-10-25 08:22:34` `c7dd1c3b` “A name is the smallest monument we can give someone who has disappeared.”
 - `2026-10-25 08:22:34` `602b01e7` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
+- `2026-10-25 08:22:34` `b22267d7` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
