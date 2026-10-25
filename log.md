@@ -390,3 +390,4 @@
 - `2026-10-25 08:22:34` `8d75963d` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-10-25 08:22:34` `2b82a176` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-10-25 08:22:34` `4806dfe1` “I remember every face I failed to save. That is why I cannot afford to stop.”
+- `2026-10-25 08:22:34` `45be1891` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
