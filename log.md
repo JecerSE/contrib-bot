@@ -406,3 +406,4 @@
 - `2026-10-25 08:22:34` `6a2c3b0b` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-10-26 08:51:31` `744f8fcb` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-10-26 08:51:31` `0fc96370` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
+- `2026-10-26 08:51:31` `083865c4` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
