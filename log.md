@@ -414,3 +414,4 @@
 - `2026-10-26 08:51:31` `ae1ff099` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-10-27 08:56:44` `df999ed4` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-10-27 08:56:44` `e50a67a9` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-10-27 08:56:44` `e0b3427e` “The cruelest chains are those we convince ourselves we deserve.”
