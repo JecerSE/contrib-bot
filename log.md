@@ -441,3 +441,4 @@
 - `2026-10-27 08:56:45` `993ebf00` “A child should never have to understand why the world hates them.”
 - `2026-10-27 08:56:45` `7bc7c31d` “Every fallen enemy was someone else's reason to keep going.”
 - `2026-10-27 08:56:45` `8160ab81` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-10-27 08:56:45` `ecbb5984` “No one is born wanting to become a weapon. Someone always teaches them.”
