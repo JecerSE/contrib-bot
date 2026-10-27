@@ -429,3 +429,4 @@
 - `2026-10-27 08:56:45` `4bbb2f93` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-10-27 08:56:45` `d1460f1d` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-10-27 08:56:45` `ae1ce340` “The world will always find a reason to wage war. We must find a better reason to end one.”
+- `2026-10-27 08:56:45` `18fbfd51` “The past may explain our hatred, but it cannot excuse what we do with it.”
