@@ -431,3 +431,4 @@
 - `2026-10-27 08:56:45` `ae1ce340` “The world will always find a reason to wage war. We must find a better reason to end one.”
 - `2026-10-27 08:56:45` `18fbfd51` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-10-27 08:56:45` `f73f2331` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-10-27 08:56:45` `333db1d1` “The dead may be beyond our reach, but the living are still our responsibility.”
