@@ -450,3 +450,4 @@
 - `2026-10-27 08:56:45` `c56c8f5a` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-27 08:56:45` `9963ccba` “You call it peace because you have never been the one forced to kneel.”
 - `2026-10-27 08:56:45` `c4e3db5a` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-10-27 08:56:45` `abe7ae0d` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
