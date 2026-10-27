@@ -418,3 +418,4 @@
 - `2026-10-27 08:56:44` `4134b9d3` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
 - `2026-10-27 08:56:44` `34f5ca08` “Every fallen enemy was someone else's reason to keep going.”
 - `2026-10-27 08:56:44` `715c3ec8` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
+- `2026-10-27 08:56:44` `13cfa3f1` “We inherited a broken world. That does not give us permission to break it further.”
