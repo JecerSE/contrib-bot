@@ -448,3 +448,4 @@
 - `2026-10-27 08:56:45` `5ce225b7` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-27 08:56:45` `e0089304` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-10-27 08:56:45` `c56c8f5a` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
+- `2026-10-27 08:56:45` `9963ccba` “You call it peace because you have never been the one forced to kneel.”
