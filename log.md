@@ -420,3 +420,4 @@
 - `2026-10-27 08:56:44` `715c3ec8` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
 - `2026-10-27 08:56:44` `13cfa3f1` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-27 08:56:44` `4684c3fa` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-10-27 08:56:44` `0c75ee2e` “A monster is simply a person whose suffering no one bothered to understand.”
