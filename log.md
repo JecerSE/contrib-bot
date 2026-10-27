@@ -421,3 +421,4 @@
 - `2026-10-27 08:56:44` `13cfa3f1` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-27 08:56:44` `4684c3fa` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-10-27 08:56:44` `0c75ee2e` “A monster is simply a person whose suffering no one bothered to understand.”
+- `2026-10-27 08:56:44` `2435a722` “The most dangerous lie is the one that makes cruelty feel necessary.”
