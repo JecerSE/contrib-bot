@@ -446,3 +446,4 @@
 - `2026-10-27 08:56:45` `b6217649` “We do not owe the past our obedience. We owe the future our honesty.”
 - `2026-10-27 08:56:45` `8bcd82c1` “A single act of kindness cannot repair the world, but it can change the world of the person who receives it.”
 - `2026-10-27 08:56:45` `5ce225b7` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
+- `2026-10-27 08:56:45` `e0089304` “The dead may be beyond our reach, but the living are still our responsibility.”
