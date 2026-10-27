@@ -416,3 +416,4 @@
 - `2026-10-27 08:56:44` `e50a67a9` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-10-27 08:56:44` `e0b3427e` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-10-27 08:56:44` `4134b9d3` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
+- `2026-10-27 08:56:44` `34f5ca08` “Every fallen enemy was someone else's reason to keep going.”
