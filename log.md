@@ -436,3 +436,4 @@
 - `2026-10-27 08:56:45` `07bdc026` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-10-27 08:56:45` `20f91d53` “When the last light disappears, someone must remember that darkness was never the same thing as emptiness.”
 - `2026-10-27 08:56:45` `c25ac804` “Every fallen enemy was someone else's reason to keep going.”
+- `2026-10-27 08:56:45` `75e69f0f` “A person who has lost everything can still decide what they will become next.”
