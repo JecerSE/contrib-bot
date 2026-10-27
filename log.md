@@ -427,3 +427,4 @@
 - `2026-10-27 08:56:45` `5de35298` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-10-27 08:56:45` `272ce0ec` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-10-27 08:56:45` `4bbb2f93` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-10-27 08:56:45` `d1460f1d` “Sometimes the bravest thing a warrior can do is put down their weapon.”
