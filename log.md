@@ -459,3 +459,4 @@
 - `2026-10-27 08:56:45` `2713b7be` “The tragedy of immortality would not be living forever. It would be watching every reason to live disappear.”
 - `2026-10-27 08:56:45` `6aa2c1e6` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-10-27 08:56:45` `36f0b34c` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
+- `2026-10-27 08:56:45` `34877ffc` “The dead may be beyond our reach, but the living are still our responsibility.”
