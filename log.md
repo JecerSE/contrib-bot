@@ -426,3 +426,4 @@
 - `2026-10-27 08:56:45` `c190d202` “We cannot demand that people trust us while refusing to tell them what we are doing.”
 - `2026-10-27 08:56:45` `5de35298` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-10-27 08:56:45` `272ce0ec` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
+- `2026-10-27 08:56:45` `4bbb2f93` “The most dangerous lie is the one that makes cruelty feel necessary.”
