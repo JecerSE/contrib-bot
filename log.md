@@ -460,3 +460,4 @@
 - `2026-10-27 08:56:45` `6aa2c1e6` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-10-27 08:56:45` `36f0b34c` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-10-27 08:56:45` `34877ffc` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-10-27 08:56:45` `e00255e1` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
