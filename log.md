@@ -456,3 +456,4 @@
 - `2026-10-27 08:56:45` `fb18eb78` “A child should never have to understand why the world hates them.”
 - `2026-10-27 08:56:45` `4d76d0f2` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-10-27 08:56:45` `e5633679` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-10-27 08:56:45` `2713b7be` “The tragedy of immortality would not be living forever. It would be watching every reason to live disappear.”
