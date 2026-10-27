@@ -443,3 +443,4 @@
 - `2026-10-27 08:56:45` `8160ab81` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-10-27 08:56:45` `ecbb5984` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-10-27 08:56:45` `969333d1` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
+- `2026-10-27 08:56:45` `b6217649` “We do not owe the past our obedience. We owe the future our honesty.”
