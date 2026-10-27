@@ -461,3 +461,4 @@
 - `2026-10-27 08:56:45` `36f0b34c` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-10-27 08:56:45` `34877ffc` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-10-27 08:56:45` `e00255e1` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
+- `2026-10-27 08:56:45` `03c3b1c9` “We survived the catastrophe, yet somehow forgot how to live.”
