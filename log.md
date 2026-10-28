@@ -502,3 +502,4 @@
 - `2026-10-28 09:36:56` `88592923` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-28 09:36:56` `693a4147` “What is a nation worth if its people must disappear for it to survive?”
 - `2026-10-28 09:36:56` `e30dec8d` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
+- `2026-10-28 09:36:56` `b641dd08` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
