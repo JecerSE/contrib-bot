@@ -492,3 +492,4 @@
 - `2026-10-28 09:36:56` `eca910c1` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-10-28 09:36:56` `dacdd71a` “History remembers the victors. The land remembers everyone.”
 - `2026-10-28 09:36:56` `4d468aa5` “There are wounds that medicine cannot heal and apologies that arrive too late.”
+- `2026-10-28 09:36:56` `c37a2761` “The world will always find a reason to wage war. We must find a better reason to end one.”
