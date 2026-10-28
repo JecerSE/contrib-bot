@@ -494,3 +494,4 @@
 - `2026-10-28 09:36:56` `4d468aa5` “There are wounds that medicine cannot heal and apologies that arrive too late.”
 - `2026-10-28 09:36:56` `c37a2761` “The world will always find a reason to wage war. We must find a better reason to end one.”
 - `2026-10-28 09:36:56` `c6824d58` “There are wounds that medicine cannot heal and apologies that arrive too late.”
+- `2026-10-28 09:36:56` `b6eda01c` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
