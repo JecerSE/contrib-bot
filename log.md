@@ -505,3 +505,4 @@
 - `2026-10-28 09:36:56` `b641dd08` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-10-28 09:36:56` `81f02085` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-10-28 09:36:56` `93673e4f` “A promise made to the dead is meaningless if we abandon the living to keep it.”
+- `2026-10-28 09:36:56` `354d1db9` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
