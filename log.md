@@ -466,3 +466,4 @@
 - `2026-10-28 09:36:56` `173c5750` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-10-28 09:36:56` `7408f707` “The past is not a prison unless we keep rebuilding its walls.”
 - `2026-10-28 09:36:56` `9f9268b0` “You call it peace because you have never been the one forced to kneel.”
+- `2026-10-28 09:36:56` `59d14ab8` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
