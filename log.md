@@ -478,3 +478,4 @@
 - `2026-10-28 09:36:56` `9154fd47` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-28 09:36:56` `570ae6d3` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-10-28 09:36:56` `6266b64c` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
+- `2026-10-28 09:36:56` `a32c6b99` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
