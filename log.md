@@ -473,3 +473,4 @@
 - `2026-10-28 09:36:56` `6ebcd7bd` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-10-28 09:36:56` `e997ab37` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-10-28 09:36:56` `3a00a546` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
+- `2026-10-28 09:36:56` `aa6a1899` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
