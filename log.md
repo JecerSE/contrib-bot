@@ -496,3 +496,4 @@
 - `2026-10-28 09:36:56` `c6824d58` “There are wounds that medicine cannot heal and apologies that arrive too late.”
 - `2026-10-28 09:36:56` `b6eda01c` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
 - `2026-10-28 09:36:56` `eb3a39fd` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-10-28 09:36:56` `dd2b93c0` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
