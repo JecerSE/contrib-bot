@@ -462,3 +462,4 @@
 - `2026-10-27 08:56:45` `34877ffc` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-10-27 08:56:45` `e00255e1` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-10-27 08:56:45` `03c3b1c9` “We survived the catastrophe, yet somehow forgot how to live.”
+- `2026-10-28 09:36:56` `b02a49d0` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
