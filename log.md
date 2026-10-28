@@ -476,3 +476,4 @@
 - `2026-10-28 09:36:56` `aa6a1899` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-10-28 09:36:56` `5cd7517a` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-10-28 09:36:56` `9154fd47` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-10-28 09:36:56` `570ae6d3` “A promise made to the dead is meaningless if we abandon the living to keep it.”
