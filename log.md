@@ -465,3 +465,4 @@
 - `2026-10-28 09:36:56` `b02a49d0` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-10-28 09:36:56` `173c5750` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-10-28 09:36:56` `7408f707` “The past is not a prison unless we keep rebuilding its walls.”
+- `2026-10-28 09:36:56` `9f9268b0` “You call it peace because you have never been the one forced to kneel.”
