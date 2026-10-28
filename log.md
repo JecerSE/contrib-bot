@@ -500,3 +500,4 @@
 - `2026-10-28 09:36:56` `99e3554d` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-28 09:36:56` `2c53ed1b` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-28 09:36:56` `88592923` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-10-28 09:36:56` `693a4147` “What is a nation worth if its people must disappear for it to survive?”
