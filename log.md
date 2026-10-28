@@ -490,3 +490,4 @@
 - `2026-10-28 09:36:56` `e1a39df5` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-28 09:36:56` `3c06b425` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-28 09:36:56` `eca910c1` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
+- `2026-10-28 09:36:56` `dacdd71a` “History remembers the victors. The land remembers everyone.”
