@@ -474,3 +474,4 @@
 - `2026-10-28 09:36:56` `e997ab37` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-10-28 09:36:56` `3a00a546` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
 - `2026-10-28 09:36:56` `aa6a1899` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
+- `2026-10-28 09:36:56` `5cd7517a` “The most dangerous lie is the one that makes cruelty feel necessary.”
