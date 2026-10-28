@@ -485,3 +485,4 @@
 - `2026-10-28 09:36:56` `36ccf9cd` “When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
 - `2026-10-28 09:36:56` `32cb4403` “I have no faith in destiny. I have faith in the person who chooses to defy it.”
 - `2026-10-28 09:36:56` `e470b8ad` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
+- `2026-10-28 09:36:56` `d10bb183` “We cannot demand that people trust us while refusing to tell them what we are doing.”
