@@ -471,3 +471,4 @@
 - `2026-10-28 09:36:56` `491c174c` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-10-28 09:36:56` `3fa548fc` “A child should never have to understand why the world hates them.”
 - `2026-10-28 09:36:56` `6ebcd7bd` “No one is born wanting to become a weapon. Someone always teaches them.”
+- `2026-10-28 09:36:56` `e997ab37` “Sometimes the bravest thing a warrior can do is put down their weapon.”
