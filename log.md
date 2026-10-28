@@ -497,3 +497,4 @@
 - `2026-10-28 09:36:56` `b6eda01c` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
 - `2026-10-28 09:36:56` `eb3a39fd` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-28 09:36:56` `dd2b93c0` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
+- `2026-10-28 09:36:56` `99e3554d` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
