@@ -544,3 +544,4 @@
 - `2026-10-29 09:55:16` `928992f8` “There are wounds that medicine cannot heal and apologies that arrive too late.”
 - `2026-10-29 09:55:16` `bc43d764` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
 - `2026-10-29 09:55:16` `1f9ffe21` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
+- `2026-10-29 09:55:16` `9414003d` “We call it the cost of progress when we do not want to admit who paid the price.”
