@@ -540,3 +540,4 @@
 - `2026-10-29 09:55:16` `a823be65` “A flag cannot bury the people who died beneath it.”
 - `2026-10-29 09:55:16` `5df02c26` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-29 09:55:16` `b54872ef` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
+- `2026-10-29 09:55:16` `93729057` “You cannot build a home by teaching everyone inside it to fear the door.”
