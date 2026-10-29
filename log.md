@@ -510,3 +510,4 @@
 - `2026-10-29 09:55:16` `021f6090` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-10-29 09:55:16` `f774958f` “Even now, after everything, I still want to believe that people can choose differently.”
 - `2026-10-29 09:55:16` `f5225abd` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-10-29 09:55:16` `9e125a32` “We do not owe the past our obedience. We owe the future our honesty.”
