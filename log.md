@@ -538,3 +538,4 @@
 - `2026-10-29 09:55:16` `7eff31eb` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-10-29 09:55:16` `bc834a06` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
 - `2026-10-29 09:55:16` `a823be65` “A flag cannot bury the people who died beneath it.”
+- `2026-10-29 09:55:16` `5df02c26` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
