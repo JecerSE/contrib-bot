@@ -521,3 +521,4 @@
 - `2026-10-29 09:55:16` `58b121a7` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-29 09:55:16` `6e045cd6` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-29 09:55:16` `5ca2e1dc` “We call it the cost of progress when we do not want to admit who paid the price.”
+- `2026-10-29 09:55:16` `ccdfc557` “You cannot build a home by teaching everyone inside it to fear the door.”
