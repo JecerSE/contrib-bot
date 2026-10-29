@@ -529,3 +529,4 @@
 - `2026-10-29 09:55:16` `fe5ad34d` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-10-29 09:55:16` `22700e69` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-10-29 09:55:16` `401f05e9` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-10-29 09:55:16` `7d66c070` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
