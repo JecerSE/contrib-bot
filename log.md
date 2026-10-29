@@ -541,3 +541,4 @@
 - `2026-10-29 09:55:16` `5df02c26` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-29 09:55:16` `b54872ef` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
 - `2026-10-29 09:55:16` `93729057` “You cannot build a home by teaching everyone inside it to fear the door.”
+- `2026-10-29 09:55:16` `928992f8` “There are wounds that medicine cannot heal and apologies that arrive too late.”
