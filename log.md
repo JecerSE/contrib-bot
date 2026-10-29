@@ -519,3 +519,4 @@
 - `2026-10-29 09:55:16` `c1a4f9cf` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-10-29 09:55:16` `06af34b6` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
 - `2026-10-29 09:55:16` `58b121a7` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-10-29 09:55:16` `6e045cd6` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
