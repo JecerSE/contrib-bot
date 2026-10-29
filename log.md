@@ -543,3 +543,4 @@
 - `2026-10-29 09:55:16` `93729057` “You cannot build a home by teaching everyone inside it to fear the door.”
 - `2026-10-29 09:55:16` `928992f8` “There are wounds that medicine cannot heal and apologies that arrive too late.”
 - `2026-10-29 09:55:16` `bc43d764` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
+- `2026-10-29 09:55:16` `1f9ffe21` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
