@@ -516,3 +516,4 @@
 - `2026-10-29 09:55:16` `4ad8bf89` “Even now, after everything, I still want to believe that people can choose differently.”
 - `2026-10-29 09:55:16` `7c9559ad` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-10-29 09:55:16` `c3988028` “If you believe your cause is just, you should be willing to question it.”
+- `2026-10-29 09:55:16` `c1a4f9cf` “We speak of sacrifice as though suffering automatically makes us righteous.”
