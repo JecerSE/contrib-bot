@@ -531,3 +531,4 @@
 - `2026-10-29 09:55:16` `401f05e9` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-29 09:55:16` `7d66c070` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
 - `2026-10-29 09:55:16` `3ae1026f` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
+- `2026-10-29 09:55:16` `5b59c4aa` “A promise made to the dead is meaningless if we abandon the living to keep it.”
