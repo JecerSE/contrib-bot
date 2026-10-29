@@ -528,3 +528,4 @@
 - `2026-10-29 09:55:16` `f7122f3d` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-10-29 09:55:16` `fe5ad34d` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-10-29 09:55:16` `22700e69` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-10-29 09:55:16` `401f05e9` “We inherited a broken world. That does not give us permission to break it further.”
