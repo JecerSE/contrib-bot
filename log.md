@@ -525,3 +525,4 @@
 - `2026-10-29 09:55:16` `03312a66` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-10-29 09:55:16` `f28b4a05` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-10-29 09:55:16` `fbba9356` “A name is the smallest monument we can give someone who has disappeared.”
+- `2026-10-29 09:55:16` `f7122f3d` “If you must hate someone, at least have the courage to look them in the eyes.”
