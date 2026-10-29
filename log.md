@@ -533,3 +533,4 @@
 - `2026-10-29 09:55:16` `3ae1026f` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-10-29 09:55:16` `5b59c4aa` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-10-29 09:55:16` `2c3da3a8` “A thousand speeches cannot replace one honest act of mercy.”
+- `2026-10-29 09:55:16` `d92bcf81` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
