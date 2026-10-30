@@ -548,3 +548,4 @@
 - `2026-10-29 09:55:16` `f1083b81` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
 - `2026-10-30 09:57:48` `572d7297` “A flag cannot bury the people who died beneath it.”
 - `2026-10-30 09:57:48` `cd07131e` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-10-30 09:57:48` `e0c8b204` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
