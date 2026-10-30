@@ -552,3 +552,4 @@
 - `2026-10-30 09:57:48` `3620cb6b` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-10-30 09:57:48` `97a18173` “A person who has lost everything can still decide what they will become next.”
 - `2026-10-30 09:57:48` `af00b3f9` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
+- `2026-10-30 09:57:48` `8f87ff75` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
