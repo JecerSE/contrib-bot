@@ -554,3 +554,4 @@
 - `2026-10-30 09:57:48` `af00b3f9` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-10-30 09:57:48` `8f87ff75` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-30 09:57:48` `fb901b32` “The world calls us dangerous because it is easier than admitting what made us this way.”
+- `2026-10-30 09:57:48` `16872360` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
