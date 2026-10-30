@@ -551,3 +551,4 @@
 - `2026-10-30 09:57:48` `e0c8b204` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-10-30 09:57:48` `3620cb6b` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-10-30 09:57:48` `97a18173` “A person who has lost everything can still decide what they will become next.”
+- `2026-10-30 09:57:48` `af00b3f9` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
