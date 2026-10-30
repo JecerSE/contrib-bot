@@ -549,3 +549,4 @@
 - `2026-10-30 09:57:48` `572d7297` “A flag cannot bury the people who died beneath it.”
 - `2026-10-30 09:57:48` `cd07131e` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-10-30 09:57:48` `e0c8b204` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
+- `2026-10-30 09:57:48` `3620cb6b` “No ideology can absolve a person of the suffering they knowingly inflict.”
