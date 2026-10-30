@@ -546,3 +546,4 @@
 - `2026-10-29 09:55:16` `1f9ffe21` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-10-29 09:55:16` `9414003d` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-10-29 09:55:16` `f1083b81` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
+- `2026-10-30 09:57:48` `572d7297` “A flag cannot bury the people who died beneath it.”
