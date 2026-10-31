@@ -578,3 +578,4 @@
 - `2026-10-31 09:35:45` `3ec4b336` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-31 09:35:45` `411ac66f` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
 - `2026-10-31 09:35:45` `5da67598` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
+- `2026-10-31 09:35:45` `38aab528` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
