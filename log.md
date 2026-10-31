@@ -565,3 +565,4 @@
 - `2026-10-31 09:35:45` `072642f3` “The strongest walls are often built by those who are most afraid.”
 - `2026-10-31 09:35:45` `a0d1d0cf` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
 - `2026-10-31 09:35:45` `d5c92523` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
+- `2026-10-31 09:35:45` `802efa24` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
