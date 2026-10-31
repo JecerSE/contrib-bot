@@ -574,3 +574,4 @@
 - `2026-10-31 09:35:45` `da21dfd9` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-10-31 09:35:45` `e2c40a7a` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
 - `2026-10-31 09:35:45` `2db4f7f9` “A name is the smallest monument we can give someone who has disappeared.”
+- `2026-10-31 09:35:45` `3eb14797` “You call it peace because you have never been the one forced to kneel.”
