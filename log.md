@@ -563,3 +563,4 @@
 - `2026-10-31 09:35:45` `ec0247da` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
 - `2026-10-31 09:35:45` `689d7859` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-10-31 09:35:45` `072642f3` “The strongest walls are often built by those who are most afraid.”
+- `2026-10-31 09:35:45` `a0d1d0cf` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
