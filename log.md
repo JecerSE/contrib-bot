@@ -556,3 +556,4 @@
 - `2026-10-30 09:57:48` `fb901b32` “The world calls us dangerous because it is easier than admitting what made us this way.”
 - `2026-10-30 09:57:48` `16872360` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
 - `2026-10-30 09:57:48` `ff7d36ed` “If you must hate someone, at least have the courage to look them in the eyes.”
+- `2026-10-31 09:35:45` `3164efba` “There are wounds that medicine cannot heal and apologies that arrive too late.”
