@@ -564,3 +564,4 @@
 - `2026-10-31 09:35:45` `689d7859` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-10-31 09:35:45` `072642f3` “The strongest walls are often built by those who are most afraid.”
 - `2026-10-31 09:35:45` `a0d1d0cf` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
+- `2026-10-31 09:35:45` `d5c92523` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
