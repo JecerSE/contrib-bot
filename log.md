@@ -573,3 +573,4 @@
 - `2026-10-31 09:35:45` `d54756e9` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-10-31 09:35:45` `da21dfd9` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-10-31 09:35:45` `e2c40a7a` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-10-31 09:35:45` `2db4f7f9` “A name is the smallest monument we can give someone who has disappeared.”
