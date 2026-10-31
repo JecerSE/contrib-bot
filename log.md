@@ -571,3 +571,4 @@
 - `2026-10-31 09:35:45` `99eae48e` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-10-31 09:35:45` `fae5e0b5` “Even now, after everything, I still want to believe that people can choose differently.”
 - `2026-10-31 09:35:45` `d54756e9` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
+- `2026-10-31 09:35:45` `da21dfd9` “A hero is often just the person who remained when everyone else found a reason to leave.”
