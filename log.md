@@ -567,3 +567,4 @@
 - `2026-10-31 09:35:45` `d5c92523` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
 - `2026-10-31 09:35:45` `802efa24` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
 - `2026-10-31 09:35:45` `dbacf145` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
+- `2026-10-31 09:35:45` `d0aca463` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
