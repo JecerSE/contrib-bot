@@ -576,3 +576,4 @@
 - `2026-10-31 09:35:45` `2db4f7f9` “A name is the smallest monument we can give someone who has disappeared.”
 - `2026-10-31 09:35:45` `3eb14797` “You call it peace because you have never been the one forced to kneel.”
 - `2026-10-31 09:35:45` `3ec4b336` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-10-31 09:35:45` `411ac66f` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
