@@ -559,3 +559,4 @@
 - `2026-10-31 09:35:45` `3164efba` “There are wounds that medicine cannot heal and apologies that arrive too late.”
 - `2026-10-31 09:35:45` `e2c96e9a` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-10-31 09:35:45` `70caa0c5` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
+- `2026-10-31 09:35:45` `14d70889` “If you believe your cause is just, you should be willing to question it.”
