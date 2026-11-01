@@ -580,3 +580,4 @@
 - `2026-10-31 09:35:45` `5da67598` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
 - `2026-10-31 09:35:45` `38aab528` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-10-31 09:35:45` `482b89c2` “A hero is often just the person who remained when everyone else found a reason to leave.”
+- `2026-11-01 10:24:37` `304483cd` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
