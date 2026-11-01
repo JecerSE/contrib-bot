@@ -587,3 +587,4 @@
 - `2026-11-01 10:24:37` `6d742873` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-01 10:24:37` `d6c7e9f0` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
 - `2026-11-01 10:24:37` `36332337` “If you must hate someone, at least have the courage to look them in the eyes.”
+- `2026-11-01 10:24:37` `9c2555e3` “A child should never have to understand why the world hates them.”
