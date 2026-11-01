@@ -584,3 +584,4 @@
 - `2026-11-01 10:24:37` `5772a0b9` “There are wounds that medicine cannot heal and apologies that arrive too late.”
 - `2026-11-01 10:24:37` `380ee72c` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-11-01 10:24:37` `8285f685` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
+- `2026-11-01 10:24:37` `6d742873` “I remember every face I failed to save. That is why I cannot afford to stop.”
