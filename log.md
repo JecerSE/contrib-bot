@@ -590,3 +590,4 @@
 - `2026-11-01 10:24:37` `9c2555e3` “A child should never have to understand why the world hates them.”
 - `2026-11-01 10:24:37` `496a5e6e` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
 - `2026-11-01 10:24:37` `d47c04e5` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-11-01 10:24:37` `20121a35` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
