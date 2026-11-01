@@ -586,3 +586,4 @@
 - `2026-11-01 10:24:37` `8285f685` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-11-01 10:24:37` `6d742873` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-01 10:24:37` `d6c7e9f0` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
+- `2026-11-01 10:24:37` `36332337` “If you must hate someone, at least have the courage to look them in the eyes.”
