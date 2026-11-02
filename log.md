@@ -609,3 +609,4 @@
 - `2026-11-02 10:58:56` `95b34e62` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-11-02 10:58:56` `4297a845` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-02 10:58:56` `bbb6bbb1` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-11-02 10:58:56` `7ddcd078` “We call them casualties because numbers are easier to mourn than names.”
