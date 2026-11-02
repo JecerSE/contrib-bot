@@ -617,3 +617,4 @@
 - `2026-11-02 10:58:56` `00995c0b` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-02 10:58:56` `e7ab21e2` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-02 10:58:56` `6ffcba1a` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
+- `2026-11-02 10:58:56` `cd246210` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
