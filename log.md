@@ -601,3 +601,4 @@
 - `2026-11-02 10:58:56` `74c58e1f` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-02 10:58:56` `bab6d0e1` “The world calls us dangerous because it is easier than admitting what made us this way.”
 - `2026-11-02 10:58:56` `f7d88c25` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-02 10:58:56` `197e55ce` “A hero is often just the person who remained when everyone else found a reason to leave.”
