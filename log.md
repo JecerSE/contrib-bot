@@ -608,3 +608,4 @@
 - `2026-11-02 10:58:56` `f6e21f02` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
 - `2026-11-02 10:58:56` `95b34e62` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-11-02 10:58:56` `4297a845` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-11-02 10:58:56` `bbb6bbb1` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
