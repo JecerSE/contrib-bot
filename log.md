@@ -612,3 +612,4 @@
 - `2026-11-02 10:58:56` `7ddcd078` “We call them casualties because numbers are easier to mourn than names.”
 - `2026-11-02 10:58:56` `4a3d6479` “If you believe your cause is just, you should be willing to question it.”
 - `2026-11-02 10:58:56` `a138159f` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
+- `2026-11-02 10:58:56` `ecc5108f` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
