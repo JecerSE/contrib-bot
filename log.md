@@ -610,3 +610,4 @@
 - `2026-11-02 10:58:56` `4297a845` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-02 10:58:56` `bbb6bbb1` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
 - `2026-11-02 10:58:56` `7ddcd078` “We call them casualties because numbers are easier to mourn than names.”
+- `2026-11-02 10:58:56` `4a3d6479` “If you believe your cause is just, you should be willing to question it.”
