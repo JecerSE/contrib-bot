@@ -604,3 +604,4 @@
 - `2026-11-02 10:58:56` `197e55ce` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-11-02 10:58:56` `9af65ca0` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-02 10:58:56` `8fde03c9` “I remember every face I failed to save. That is why I cannot afford to stop.”
+- `2026-11-02 10:58:56` `5388a44f` “History remembers the victors. The land remembers everyone.”
