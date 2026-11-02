@@ -620,3 +620,4 @@
 - `2026-11-02 10:58:56` `cd246210` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
 - `2026-11-02 10:58:56` `25874b60` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-11-02 10:58:56` `ee92ee6a` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
+- `2026-11-02 10:58:56` `50e1457e` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
