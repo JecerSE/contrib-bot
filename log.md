@@ -615,3 +615,4 @@
 - `2026-11-02 10:58:56` `ecc5108f` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-11-02 10:58:56` `d542f5cb` “The world will always find a reason to wage war. We must find a better reason to end one.”
 - `2026-11-02 10:58:56` `00995c0b` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-11-02 10:58:56` `e7ab21e2` “I remember every face I failed to save. That is why I cannot afford to stop.”
