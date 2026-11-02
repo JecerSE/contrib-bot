@@ -600,3 +600,4 @@
 - `2026-11-02 10:58:56` `7bbb3451` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
 - `2026-11-02 10:58:56` `74c58e1f` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-02 10:58:56` `bab6d0e1` “The world calls us dangerous because it is easier than admitting what made us this way.”
+- `2026-11-02 10:58:56` `f7d88c25` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
