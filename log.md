@@ -624,3 +624,4 @@
 - `2026-11-02 10:58:56` `33cf9caf` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-02 10:58:56` `6e692a60` “What is a nation worth if its people must disappear for it to survive?”
 - `2026-11-03 10:48:14` `a2a33b23` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
+- `2026-11-03 10:48:14` `be5d548c` “You call it peace because you have never been the one forced to kneel.”
