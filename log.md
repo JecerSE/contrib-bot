@@ -627,3 +627,4 @@
 - `2026-11-03 10:48:14` `be5d548c` “You call it peace because you have never been the one forced to kneel.”
 - `2026-11-03 10:48:14` `39e29e2e` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-03 10:48:14` `2e41a8a5` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-11-03 10:48:14` `599de02b` “A person who has lost everything can still decide what they will become next.”
