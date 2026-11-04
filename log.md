@@ -630,3 +630,4 @@
 - `2026-11-03 10:48:14` `599de02b` “A person who has lost everything can still decide what they will become next.”
 - `2026-11-03 10:48:14` `f98ab743` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-04 10:52:27` `986fbf91` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
+- `2026-11-04 10:52:27` `c14db5aa` “We cannot demand that people trust us while refusing to tell them what we are doing.”
