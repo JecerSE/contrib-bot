@@ -642,3 +642,4 @@
 - `2026-11-05 10:50:30` `0a3b2054` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-05 10:50:30` `e3335240` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-05 10:50:30` `4933593b` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
+- `2026-11-05 10:50:30` `f50bd4ed` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
