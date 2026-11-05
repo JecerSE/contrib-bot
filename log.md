@@ -655,3 +655,4 @@
 - `2026-11-05 10:50:30` `0d561bd1` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-11-05 10:50:30` `246ae698` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
 - `2026-11-05 10:50:30` `14fb359e` “If you believe your cause is just, you should be willing to question it.”
+- `2026-11-05 10:50:30` `504a6654` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
