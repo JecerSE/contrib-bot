@@ -636,3 +636,4 @@
 - `2026-11-05 10:50:30` `9a417e35` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-11-05 10:50:30` `317f759a` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-11-05 10:50:30` `4c4b61f8` “A person who has lost everything can still decide what they will become next.”
+- `2026-11-05 10:50:30` `b5bc2d1e` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
