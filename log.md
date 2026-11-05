@@ -635,3 +635,4 @@
 - `2026-11-04 10:52:27` `d087a24b` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-11-05 10:50:30` `9a417e35` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-11-05 10:50:30` `317f759a` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
+- `2026-11-05 10:50:30` `4c4b61f8` “A person who has lost everything can still decide what they will become next.”
