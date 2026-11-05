@@ -649,3 +649,4 @@
 - `2026-11-05 10:50:30` `f6310955` “What is a nation worth if its people must disappear for it to survive?”
 - `2026-11-05 10:50:30` `b2773c89` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-11-05 10:50:30` `78b2189f` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
+- `2026-11-05 10:50:30` `96d749d7` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
