@@ -658,3 +658,4 @@
 - `2026-11-05 10:50:30` `504a6654` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-11-05 10:50:30` `0c5098b5` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
 - `2026-11-05 10:50:30` `5b539698` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-11-06 10:49:43` `f8be6b01` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
