@@ -663,3 +663,4 @@
 - `2026-11-07 10:02:33` `75cc6790` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
 - `2026-11-07 10:02:33` `299d3e33` “Every fallen enemy was someone else's reason to keep going.”
 - `2026-11-07 10:02:33` `9b675816` “I remember every face I failed to save. That is why I cannot afford to stop.”
+- `2026-11-07 10:02:33` `7b710b60` “A promise made to the dead is meaningless if we abandon the living to keep it.”
