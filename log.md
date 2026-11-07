@@ -671,3 +671,4 @@
 - `2026-11-07 10:02:33` `2905f0ba` “If you believe your cause is just, you should be willing to question it.”
 - `2026-11-07 10:02:33` `577162f5` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-11-07 10:02:33` `255795bf` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-11-07 10:02:33` `31ab08d8` “The dead may be beyond our reach, but the living are still our responsibility.”
