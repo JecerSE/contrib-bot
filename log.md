@@ -687,3 +687,4 @@
 - `2026-11-07 10:02:33` `cb6e2df2` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-07 10:02:33` `336eaa3b` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
 - `2026-11-07 10:02:33` `5e3b2e10` “A thousand speeches cannot replace one honest act of mercy.”
+- `2026-11-07 10:02:33` `34da665a` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
