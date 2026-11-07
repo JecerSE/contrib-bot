@@ -688,3 +688,4 @@
 - `2026-11-07 10:02:33` `336eaa3b` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
 - `2026-11-07 10:02:33` `5e3b2e10` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-11-07 10:02:33` `34da665a` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
+- `2026-11-07 10:02:33` `c1a211d2` “If you must hate someone, at least have the courage to look them in the eyes.”
