@@ -680,3 +680,4 @@
 - `2026-11-07 10:02:33` `5aaabdda` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-11-07 10:02:33` `e6c3f8a0` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-11-07 10:02:33` `c2e12623` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
+- `2026-11-07 10:02:33` `c6d39f0d` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
