@@ -684,3 +684,4 @@
 - `2026-11-07 10:02:33` `459f09d4` “The past is not a prison unless we keep rebuilding its walls.”
 - `2026-11-07 10:02:33` `4b6f24d8` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-11-07 10:02:33` `13045dc7` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
+- `2026-11-07 10:02:33` `cb6e2df2` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
