@@ -665,3 +665,4 @@
 - `2026-11-07 10:02:33` `9b675816` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-07 10:02:33` `7b710b60` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-11-07 10:02:33` `4fd52756` “The strongest walls are often built by those who are most afraid.”
+- `2026-11-07 10:02:33` `ee106875` “If you believe your cause is just, you should be willing to question it.”
