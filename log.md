@@ -661,3 +661,4 @@
 - `2026-11-06 10:49:43` `f8be6b01` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-06 10:49:43` `bf37aa25` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-07 10:02:33` `75cc6790` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
+- `2026-11-07 10:02:33` `299d3e33` “Every fallen enemy was someone else's reason to keep going.”
