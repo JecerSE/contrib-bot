@@ -685,3 +685,4 @@
 - `2026-11-07 10:02:33` `4b6f24d8` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-11-07 10:02:33` `13045dc7` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
 - `2026-11-07 10:02:33` `cb6e2df2` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-07 10:02:33` `336eaa3b` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
