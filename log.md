@@ -668,3 +668,4 @@
 - `2026-11-07 10:02:33` `ee106875` “If you believe your cause is just, you should be willing to question it.”
 - `2026-11-07 10:02:33` `74b96e4b` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-07 10:02:33` `9c90a150` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-11-07 10:02:33` `2905f0ba` “If you believe your cause is just, you should be willing to question it.”
