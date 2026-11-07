@@ -678,3 +678,4 @@
 - `2026-11-07 10:02:33` `95c67aad` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
 - `2026-11-07 10:02:33` `a94e66ec` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-07 10:02:33` `5aaabdda` “If mercy is weakness, then perhaps the world has misunderstood strength.”
+- `2026-11-07 10:02:33` `e6c3f8a0` “The cruelest chains are those we convince ourselves we deserve.”
