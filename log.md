@@ -695,3 +695,4 @@
 - `2026-11-08 10:16:29` `02b34a55` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
 - `2026-11-08 10:16:29` `69dd973b` “The strongest walls are often built by those who are most afraid.”
 - `2026-11-08 10:16:30` `2af04e5e` “We call them casualties because numbers are easier to mourn than names.”
+- `2026-11-08 10:16:30` `7f1b145b` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
