@@ -698,3 +698,4 @@
 - `2026-11-08 10:16:30` `7f1b145b` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-08 10:16:30` `340cf22e` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-08 10:16:30` `c39f0be6` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-11-08 10:16:30` `2c460ff2` “Sometimes the bravest thing a warrior can do is put down their weapon.”
