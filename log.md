@@ -693,3 +693,4 @@
 - `2026-11-08 10:16:29` `3846922f` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-08 10:16:29` `dcd73cb3` “A flag cannot bury the people who died beneath it.”
 - `2026-11-08 10:16:29` `02b34a55` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-11-08 10:16:29` `69dd973b` “The strongest walls are often built by those who are most afraid.”
