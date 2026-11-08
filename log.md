@@ -691,3 +691,4 @@
 - `2026-11-07 10:02:33` `c1a211d2` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-11-08 10:16:29` `8776aa75` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
 - `2026-11-08 10:16:29` `3846922f` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-11-08 10:16:29` `dcd73cb3` “A flag cannot bury the people who died beneath it.”
