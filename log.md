@@ -710,3 +710,4 @@
 - `2026-11-09 11:27:09` `cbf05928` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
 - `2026-11-09 11:27:09` `5a637741` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-11-09 11:27:09` `ca9f983d` “We cannot demand that people trust us while refusing to tell them what we are doing.”
+- `2026-11-09 11:27:09` `951f29d6` “A promise made to the dead is meaningless if we abandon the living to keep it.”
