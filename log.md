@@ -709,3 +709,4 @@
 - `2026-11-09 11:27:09` `4d77c396` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-09 11:27:09` `cbf05928` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
 - `2026-11-09 11:27:09` `5a637741` “If mercy is weakness, then perhaps the world has misunderstood strength.”
+- `2026-11-09 11:27:09` `ca9f983d` “We cannot demand that people trust us while refusing to tell them what we are doing.”
