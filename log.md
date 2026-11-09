@@ -705,3 +705,4 @@
 - `2026-11-09 11:27:09` `2a9586ec` “A person who has lost everything can still decide what they will become next.”
 - `2026-11-09 11:27:09` `a1cd3793` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
 - `2026-11-09 11:27:09` `6f483500` “Doctor, when this is all over, let us build a world where no one has to ask whether they deserve to live.”
+- `2026-11-09 11:27:09` `f1c586d2` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
