@@ -715,3 +715,4 @@
 - `2026-11-09 11:27:09` `2dcad2cb` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-11-09 11:27:09` `4ff72099` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-11-09 11:27:09` `862e172d` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
+- `2026-11-09 11:27:09` `af4bba64` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
