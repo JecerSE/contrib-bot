@@ -727,3 +727,4 @@
 - `2026-11-09 11:27:09` `92844432` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-11-09 11:27:09` `5620f99c` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-09 11:27:09` `fbd99a84` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
+- `2026-11-09 11:27:09` `14475d40` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
