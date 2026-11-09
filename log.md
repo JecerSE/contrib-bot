@@ -707,3 +707,4 @@
 - `2026-11-09 11:27:09` `6f483500` “Doctor, when this is all over, let us build a world where no one has to ask whether they deserve to live.”
 - `2026-11-09 11:27:09` `f1c586d2` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
 - `2026-11-09 11:27:09` `4d77c396` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-09 11:27:09` `cbf05928` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
