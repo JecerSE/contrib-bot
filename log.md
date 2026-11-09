@@ -703,3 +703,4 @@
 - `2026-11-09 11:27:09` `13acf64e` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-09 11:27:09` `c552593f` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-09 11:27:09` `2a9586ec` “A person who has lost everything can still decide what they will become next.”
+- `2026-11-09 11:27:09` `a1cd3793` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
