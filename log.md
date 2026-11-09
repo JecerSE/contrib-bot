@@ -712,3 +712,4 @@
 - `2026-11-09 11:27:09` `ca9f983d` “We cannot demand that people trust us while refusing to tell them what we are doing.”
 - `2026-11-09 11:27:09` `951f29d6` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-11-09 11:27:09` `07c58b15` “History remembers the victors. The land remembers everyone.”
+- `2026-11-09 11:27:09` `2dcad2cb` “A hero is often just the person who remained when everyone else found a reason to leave.”
