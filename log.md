@@ -730,3 +730,4 @@
 - `2026-11-09 11:27:09` `14475d40` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-11-09 11:27:09` `ac3768f0` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-11-09 11:27:09` `80cb15a7` “The future is not innocent simply because it has not happened yet.”
+- `2026-11-09 11:27:09` `1118cd1e` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
