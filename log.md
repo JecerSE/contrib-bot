@@ -733,3 +733,4 @@
 - `2026-11-09 11:27:09` `1118cd1e` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-09 11:27:09` `1dda855a` “A child should never have to understand why the world hates them.”
 - `2026-11-09 11:27:09` `d53a916d` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
+- `2026-11-09 11:27:09` `7e471ee5` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
