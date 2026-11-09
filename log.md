@@ -702,3 +702,4 @@
 - `2026-11-08 10:16:30` `12bccd57` “If you believe your cause is just, you should be willing to question it.”
 - `2026-11-09 11:27:09` `13acf64e` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-09 11:27:09` `c552593f` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-09 11:27:09` `2a9586ec` “A person who has lost everything can still decide what they will become next.”
