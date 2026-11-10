@@ -746,3 +746,4 @@
 - `2026-11-10 11:07:41` `527ac1b0` “If you believe your cause is just, you should be willing to question it.”
 - `2026-11-10 11:07:41` `ce459ad7` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-10 11:07:41` `6a58d0b1` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-11-10 11:07:41` `ee8a748a` “The dead may be beyond our reach, but the living are still our responsibility.”
