@@ -777,3 +777,4 @@
 - `2026-11-10 11:07:41` `34feef4a` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-10 11:07:41` `086cd7f5` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
 - `2026-11-10 11:07:41` `cedc8a35` “The strongest walls are often built by those who are most afraid.”
+- `2026-11-10 11:07:41` `fcef9a3b` “The future is not innocent simply because it has not happened yet.”
