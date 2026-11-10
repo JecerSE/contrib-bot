@@ -743,3 +743,4 @@
 - `2026-11-10 11:07:41` `0cb5a29b` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-11-10 11:07:41` `593cb6e9` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
 - `2026-11-10 11:07:41` `548ca6c7` “Even now, after everything, I still want to believe that people can choose differently.”
+- `2026-11-10 11:07:41` `527ac1b0` “If you believe your cause is just, you should be willing to question it.”
