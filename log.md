@@ -761,3 +761,4 @@
 - `2026-11-10 11:07:41` `d8897345` “We cannot demand that people trust us while refusing to tell them what we are doing.”
 - `2026-11-10 11:07:41` `79edc861` “A single act of kindness cannot repair the world, but it can change the world of the person who receives it.”
 - `2026-11-10 11:07:41` `251e2c89` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-11-10 11:07:41` `1011aa1a` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
