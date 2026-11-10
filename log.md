@@ -748,3 +748,4 @@
 - `2026-11-10 11:07:41` `6a58d0b1` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-10 11:07:41` `ee8a748a` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-10 11:07:41` `b98270e0` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-11-10 11:07:41` `539d9438` “We inherited a broken world. That does not give us permission to break it further.”
