@@ -755,3 +755,4 @@
 - `2026-11-10 11:07:41` `c7b0d279` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-10 11:07:41` `f36ea050` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
 - `2026-11-10 11:07:41` `2d60c27d` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
+- `2026-11-10 11:07:41` `1c19cb2f` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
