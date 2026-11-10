@@ -752,3 +752,4 @@
 - `2026-11-10 11:07:41` `769f5dfe` “In a world that has forgotten kindness, even a small mercy becomes an act of rebellion.”
 - `2026-11-10 11:07:41` `c2e8b01a` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
 - `2026-11-10 11:07:41` `27a2ff2f` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-11-10 11:07:41` `c7b0d279` “The dead may be beyond our reach, but the living are still our responsibility.”
