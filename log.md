@@ -780,3 +780,4 @@
 - `2026-11-10 11:07:41` `fcef9a3b` “The future is not innocent simply because it has not happened yet.”
 - `2026-11-10 11:07:41` `e723a856` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-11-10 11:07:41` `b284f1e9` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-11-10 11:07:41` `0b3ac5a6` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
