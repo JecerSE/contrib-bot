@@ -757,3 +757,4 @@
 - `2026-11-10 11:07:41` `2d60c27d` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-10 11:07:41` `1c19cb2f` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
 - `2026-11-10 11:07:41` `d5b4b2ae` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-11-10 11:07:41` `99c7e97d` “We call it the cost of progress when we do not want to admit who paid the price.”
