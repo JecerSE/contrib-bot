@@ -741,3 +741,4 @@
 - `2026-11-10 11:07:41` `2b109931` “There are wounds that medicine cannot heal and apologies that arrive too late.”
 - `2026-11-10 11:07:41` `e7d6ae9b` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-11-10 11:07:41` `0cb5a29b` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
+- `2026-11-10 11:07:41` `593cb6e9` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
