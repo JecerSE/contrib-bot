@@ -775,3 +775,4 @@
 - `2026-11-10 11:07:41` `b907aa7c` “Every fallen enemy was someone else's reason to keep going.”
 - `2026-11-10 11:07:41` `a4991fc4` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-10 11:07:41` `34feef4a` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-11-10 11:07:41` `086cd7f5` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
