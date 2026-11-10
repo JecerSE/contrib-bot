@@ -769,3 +769,4 @@
 - `2026-11-10 11:07:41` `f5b23a0e` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-10 11:07:41` `aa9c4eee` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-10 11:07:41` `8084cdfb` “If you must hate someone, at least have the courage to look them in the eyes.”
+- `2026-11-10 11:07:41` `023698d1` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
