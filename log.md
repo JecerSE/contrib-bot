@@ -765,3 +765,4 @@
 - `2026-11-10 11:07:41` `caebbe70` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-11-10 11:07:41` `de02a3c4` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-10 11:07:41` `e1650f5b` “If you believe your cause is just, you should be willing to question it.”
+- `2026-11-10 11:07:41` `53fe9b41` “You may defeat an army and still lose everything worth defending.”
