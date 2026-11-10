@@ -739,3 +739,4 @@
 - `2026-11-10 11:07:41` `c483e9b8` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-11-10 11:07:41` `dd265dd7` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-10 11:07:41` `2b109931` “There are wounds that medicine cannot heal and apologies that arrive too late.”
+- `2026-11-10 11:07:41` `e7d6ae9b` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
