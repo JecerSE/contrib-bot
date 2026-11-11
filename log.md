@@ -783,3 +783,4 @@
 - `2026-11-10 11:07:41` `0b3ac5a6` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
 - `2026-11-10 11:07:41` `f1b654d7` “The strongest walls are often built by those who are most afraid.”
 - `2026-11-11 10:53:41` `344fd7d7` “You may defeat an army and still lose everything worth defending.”
+- `2026-11-11 10:53:41` `fa349a62` “There are wounds that medicine cannot heal and apologies that arrive too late.”
