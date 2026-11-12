@@ -793,3 +793,4 @@
 - `2026-11-11 10:53:41` `9c63d7dd` “We survived the catastrophe, yet somehow forgot how to live.”
 - `2026-11-11 10:53:41` `47a286c8` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-11-12 11:01:34` `58b2b171` “The strongest walls are often built by those who are most afraid.”
+- `2026-11-12 11:01:34` `be9e738e` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
