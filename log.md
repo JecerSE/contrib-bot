@@ -796,3 +796,4 @@
 - `2026-11-12 11:01:34` `be9e738e` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
 - `2026-11-12 11:01:34` `db2344ca` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-11-12 11:01:34` `8d56fcf4` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-12 11:01:34` `517998f8` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
