@@ -792,3 +792,4 @@
 - `2026-11-11 10:53:41` `34f81a80` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-11-11 10:53:41` `9c63d7dd` “We survived the catastrophe, yet somehow forgot how to live.”
 - `2026-11-11 10:53:41` `47a286c8` “A promise made to the dead is meaningless if we abandon the living to keep it.”
+- `2026-11-12 11:01:34` `58b2b171` “The strongest walls are often built by those who are most afraid.”
