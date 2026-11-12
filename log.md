@@ -798,3 +798,4 @@
 - `2026-11-12 11:01:34` `8d56fcf4` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-12 11:01:34` `517998f8` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
 - `2026-11-12 11:01:34` `4833c560` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-11-12 11:01:34` `fe4d2118` “You cannot save a person by taking away every choice that makes them human.”
