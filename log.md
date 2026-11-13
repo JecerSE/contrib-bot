@@ -806,3 +806,4 @@
 - `2026-11-13 10:55:14` `d177e51a` “I have no faith in destiny. I have faith in the person who chooses to defy it.”
 - `2026-11-13 10:55:14` `275ebf28` “We call them casualties because numbers are easier to mourn than names.”
 - `2026-11-13 10:55:14` `0e2b9085` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
+- `2026-11-13 10:55:14` `d4bc9c8d` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
