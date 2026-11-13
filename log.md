@@ -802,3 +802,4 @@
 - `2026-11-12 11:01:34` `2adbd6d8` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-11-13 10:55:14` `ad8ad091` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-13 10:55:14` `02084968` “We are not innocent merely because our enemies are cruel.”
+- `2026-11-13 10:55:14` `8cc91729` “The world does not become kinder merely because we have suffered enough.”
