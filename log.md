@@ -810,3 +810,4 @@
 - `2026-11-13 10:55:14` `94613b6b` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
 - `2026-11-13 10:55:14` `917b5d33` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
 - `2026-11-13 10:55:14` `443a65cd` “I have no faith in destiny. I have faith in the person who chooses to defy it.”
+- `2026-11-13 10:55:14` `e246abc9` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
