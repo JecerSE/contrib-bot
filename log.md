@@ -816,3 +816,4 @@
 - `2026-11-13 10:55:15` `1c582c54` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
 - `2026-11-13 10:55:15` `15b94e7e` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
 - `2026-11-13 10:55:15` `15e5ae02` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
+- `2026-11-13 10:55:15` `b9700a0d` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
