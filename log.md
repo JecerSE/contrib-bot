@@ -821,3 +821,4 @@
 - `2026-11-13 10:55:15` `de496f63` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
 - `2026-11-13 10:55:15` `dc6e239b` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
 - `2026-11-13 10:55:15` `53ff9692` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
+- `2026-11-13 10:55:15` `5c2b5847` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
