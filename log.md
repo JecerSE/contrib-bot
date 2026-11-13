@@ -818,3 +818,4 @@
 - `2026-11-13 10:55:15` `15e5ae02` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
 - `2026-11-13 10:55:15` `b9700a0d` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-13 10:55:15` `1aa542b0` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-11-13 10:55:15` `de496f63` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
