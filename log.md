@@ -819,3 +819,4 @@
 - `2026-11-13 10:55:15` `b9700a0d` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-13 10:55:15` `1aa542b0` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-13 10:55:15` `de496f63` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
+- `2026-11-13 10:55:15` `dc6e239b` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
