@@ -807,3 +807,4 @@
 - `2026-11-13 10:55:14` `275ebf28` “We call them casualties because numbers are easier to mourn than names.”
 - `2026-11-13 10:55:14` `0e2b9085` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
 - `2026-11-13 10:55:14` `d4bc9c8d` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
+- `2026-11-13 10:55:14` `94613b6b` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
