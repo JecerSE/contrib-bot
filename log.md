@@ -805,3 +805,4 @@
 - `2026-11-13 10:55:14` `8cc91729` “The world does not become kinder merely because we have suffered enough.”
 - `2026-11-13 10:55:14` `d177e51a` “I have no faith in destiny. I have faith in the person who chooses to defy it.”
 - `2026-11-13 10:55:14` `275ebf28` “We call them casualties because numbers are easier to mourn than names.”
+- `2026-11-13 10:55:14` `0e2b9085` “The innocent are not protected by good intentions. Someone must stand between them and the world.”
