@@ -828,3 +828,4 @@
 - `2026-11-13 10:55:15` `6555eb7c` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-13 10:55:15` `1b6620c4` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
 - `2026-11-13 10:55:15` `afa2f32c` “When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
+- `2026-11-13 10:55:15` `244ad57a` “Every fallen enemy was someone else's reason to keep going.”
