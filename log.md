@@ -825,3 +825,4 @@
 - `2026-11-13 10:55:15` `bb0ef579` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
 - `2026-11-13 10:55:15` `e7cf1b8f` “We do not owe the past our obedience. We owe the future our honesty.”
 - `2026-11-13 10:55:15` `091eb943` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
+- `2026-11-13 10:55:15` `6555eb7c` “You may defeat an army and still lose everything worth defending.”
