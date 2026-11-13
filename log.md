@@ -823,3 +823,4 @@
 - `2026-11-13 10:55:15` `53ff9692` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-13 10:55:15` `5c2b5847` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-11-13 10:55:15` `bb0ef579` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
+- `2026-11-13 10:55:15` `e7cf1b8f` “We do not owe the past our obedience. We owe the future our honesty.”
