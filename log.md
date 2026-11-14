@@ -833,3 +833,4 @@
 - `2026-11-14 10:21:33` `fbc41117` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-11-14 10:21:33` `d264cb99` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
 - `2026-11-14 10:21:33` `418e83c4` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
+- `2026-11-14 10:21:33` `030dd80f` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
