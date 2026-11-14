@@ -853,3 +853,4 @@
 - `2026-11-14 10:21:33` `f86cb89e` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-11-14 10:21:33` `b6d990fd` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-11-14 10:21:33` `47c8bdea` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-11-14 10:21:33` `2ec511c5` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
