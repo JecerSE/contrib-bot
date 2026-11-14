@@ -840,3 +840,4 @@
 - `2026-11-14 10:21:33` `2538e3ba` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
 - `2026-11-14 10:21:33` `803ae85f` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
 - `2026-11-14 10:21:33` `3191b54d` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
+- `2026-11-14 10:21:33` `b393f63b` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
