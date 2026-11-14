@@ -845,3 +845,4 @@
 - `2026-11-14 10:21:33` `f3911bfa` “The snow covers every footprint eventually. It does not mean no one ever walked there.”
 - `2026-11-14 10:21:33` `4b0aa658` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
 - `2026-11-14 10:21:33` `dca03162` “A hero is often just the person who remained when everyone else found a reason to leave.”
+- `2026-11-14 10:21:33` `87e6135d` “No ideology can absolve a person of the suffering they knowingly inflict.”
