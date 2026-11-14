@@ -835,3 +835,4 @@
 - `2026-11-14 10:21:33` `418e83c4` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
 - `2026-11-14 10:21:33` `030dd80f` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
 - `2026-11-14 10:21:33` `05abc94e` “Even now, after everything, I still want to believe that people can choose differently.”
+- `2026-11-14 10:21:33` `9254cb4a` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
