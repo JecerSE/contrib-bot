@@ -837,3 +837,4 @@
 - `2026-11-14 10:21:33` `05abc94e` “Even now, after everything, I still want to believe that people can choose differently.”
 - `2026-11-14 10:21:33` `9254cb4a` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-14 10:21:33` `cb2bd401` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
+- `2026-11-14 10:21:33` `2538e3ba` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
