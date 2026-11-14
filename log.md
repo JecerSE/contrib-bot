@@ -852,3 +852,4 @@
 - `2026-11-14 10:21:33` `7ceeae76` “The world does not become kinder merely because we have suffered enough.”
 - `2026-11-14 10:21:33` `f86cb89e` “A thousand speeches cannot replace one honest act of mercy.”
 - `2026-11-14 10:21:33` `b6d990fd` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-11-14 10:21:33` `47c8bdea` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
