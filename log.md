@@ -847,3 +847,4 @@
 - `2026-11-14 10:21:33` `dca03162` “A hero is often just the person who remained when everyone else found a reason to leave.”
 - `2026-11-14 10:21:33` `87e6135d` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-11-14 10:21:33` `4581135c` “There is a difference between enduring suffering and convincing yourself that suffering is all you deserve.”
+- `2026-11-14 10:21:33` `19affad2` “If mercy is weakness, then perhaps the world has misunderstood strength.”
