@@ -851,3 +851,4 @@
 - `2026-11-14 10:21:33` `96f31df1` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-14 10:21:33` `7ceeae76` “The world does not become kinder merely because we have suffered enough.”
 - `2026-11-14 10:21:33` `f86cb89e` “A thousand speeches cannot replace one honest act of mercy.”
+- `2026-11-14 10:21:33` `b6d990fd` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
