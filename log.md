@@ -859,3 +859,4 @@
 - `2026-11-14 10:21:33` `5c3de93b` “The past is not a prison unless we keep rebuilding its walls.”
 - `2026-11-14 10:21:33` `892a17fd` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
 - `2026-11-14 10:21:33` `3d2891ad` “When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
+- `2026-11-14 10:21:33` `1f212a5a` “History remembers the victors. The land remembers everyone.”
