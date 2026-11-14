@@ -862,3 +862,4 @@
 - `2026-11-14 10:21:33` `1f212a5a` “History remembers the victors. The land remembers everyone.”
 - `2026-11-14 10:21:33` `4b18917f` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
 - `2026-11-14 10:21:33` `55ae82ed` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-11-14 10:21:33` `66799868` “You cannot build a home by teaching everyone inside it to fear the door.”
