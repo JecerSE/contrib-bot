@@ -850,3 +850,4 @@
 - `2026-11-14 10:21:33` `19affad2` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-11-14 10:21:33` `96f31df1` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-14 10:21:33` `7ceeae76` “The world does not become kinder merely because we have suffered enough.”
+- `2026-11-14 10:21:33` `f86cb89e` “A thousand speeches cannot replace one honest act of mercy.”
