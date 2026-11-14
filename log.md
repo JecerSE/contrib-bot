@@ -830,3 +830,4 @@
 - `2026-11-13 10:55:15` `afa2f32c` “When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
 - `2026-11-13 10:55:15` `244ad57a` “Every fallen enemy was someone else's reason to keep going.”
 - `2026-11-14 10:21:33` `6508865a` “A single act of kindness cannot repair the world, but it can change the world of the person who receives it.”
+- `2026-11-14 10:21:33` `fbc41117` “No one is born wanting to become a weapon. Someone always teaches them.”
