@@ -856,3 +856,4 @@
 - `2026-11-14 10:21:33` `2ec511c5` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
 - `2026-11-14 10:21:33` `21cff754` “You cannot save a person by taking away every choice that makes them human.”
 - `2026-11-14 10:21:33` `6dcaa669` “When the last light disappears, someone must remember that darkness was never the same thing as emptiness.”
+- `2026-11-14 10:21:33` `5c3de93b` “The past is not a prison unless we keep rebuilding its walls.”
