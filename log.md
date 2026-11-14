@@ -864,3 +864,4 @@
 - `2026-11-14 10:21:33` `55ae82ed` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-11-14 10:21:33` `66799868` “You cannot build a home by teaching everyone inside it to fear the door.”
 - `2026-11-14 10:21:33` `a5e35fec` “A name is the smallest monument we can give someone who has disappeared.”
+- `2026-11-14 10:21:33` `c73e52cf` “The past may explain our hatred, but it cannot excuse what we do with it.”
