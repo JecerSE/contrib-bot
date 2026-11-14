@@ -836,3 +836,4 @@
 - `2026-11-14 10:21:33` `030dd80f` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
 - `2026-11-14 10:21:33` `05abc94e` “Even now, after everything, I still want to believe that people can choose differently.”
 - `2026-11-14 10:21:33` `9254cb4a` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
+- `2026-11-14 10:21:33` `cb2bd401` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
