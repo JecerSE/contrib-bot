@@ -855,3 +855,4 @@
 - `2026-11-14 10:21:33` `47c8bdea` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
 - `2026-11-14 10:21:33` `2ec511c5` “I have seen people smile at their executioners because they refused to let fear own their final moment.”
 - `2026-11-14 10:21:33` `21cff754` “You cannot save a person by taking away every choice that makes them human.”
+- `2026-11-14 10:21:33` `6dcaa669` “When the last light disappears, someone must remember that darkness was never the same thing as emptiness.”
