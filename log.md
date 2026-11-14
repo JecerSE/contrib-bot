@@ -848,3 +848,4 @@
 - `2026-11-14 10:21:33` `87e6135d` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-11-14 10:21:33` `4581135c` “There is a difference between enduring suffering and convincing yourself that suffering is all you deserve.”
 - `2026-11-14 10:21:33` `19affad2` “If mercy is weakness, then perhaps the world has misunderstood strength.”
+- `2026-11-14 10:21:33` `96f31df1` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
