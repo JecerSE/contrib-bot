@@ -843,3 +843,4 @@
 - `2026-11-14 10:21:33` `b393f63b` “We cannot return to the people we were before the war. We can only decide whether the war gets to define us.”
 - `2026-11-14 10:21:33` `51695c03` “When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
 - `2026-11-14 10:21:33` `f3911bfa` “The snow covers every footprint eventually. It does not mean no one ever walked there.”
+- `2026-11-14 10:21:33` `4b0aa658` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
