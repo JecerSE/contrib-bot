@@ -890,3 +890,4 @@
 - `2026-11-15 10:48:52` `4eedfa38` “There is no glory in war for those who must live with its consequences.”
 - `2026-11-15 10:48:52` `750436ca` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-15 10:48:52` `eda5cdf8` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-11-15 10:48:52` `aae276bd` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
