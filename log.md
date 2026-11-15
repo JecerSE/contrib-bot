@@ -900,3 +900,4 @@
 - `2026-11-15 10:48:52` `909c2277` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
 - `2026-11-15 10:48:52` `6afd553f` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
 - `2026-11-15 10:48:52` `0496172d` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
+- `2026-11-15 10:48:52` `c25199f0` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
