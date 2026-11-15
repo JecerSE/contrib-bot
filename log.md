@@ -880,3 +880,4 @@
 - `2026-11-15 10:48:52` `d1902a65` “A child should never have to understand why the world hates them.”
 - `2026-11-15 10:48:52` `3c3ba202` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
 - `2026-11-15 10:48:52` `705a0ba1` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
+- `2026-11-15 10:48:52` `999a73b9` “If you believe your cause is just, you should be willing to question it.”
