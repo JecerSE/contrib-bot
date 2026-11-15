@@ -869,3 +869,4 @@
 - `2026-11-15 10:48:52` `5750f0d1` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-11-15 10:48:52` `555f8dad` “I have seen heroes become tyrants and villains die protecting strangers. The world is rarely so simple.”
 - `2026-11-15 10:48:52` `94180e5e` “A child should never have to understand why the world hates them.”
+- `2026-11-15 10:48:52` `fb1d08c7` “The most dangerous lie is the one that makes cruelty feel necessary.”
