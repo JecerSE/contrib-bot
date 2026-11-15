@@ -888,3 +888,4 @@
 - `2026-11-15 10:48:52` `2d346779` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-11-15 10:48:52` `502eb3c4` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
 - `2026-11-15 10:48:52` `4eedfa38` “There is no glory in war for those who must live with its consequences.”
+- `2026-11-15 10:48:52` `750436ca` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
