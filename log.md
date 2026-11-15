@@ -905,3 +905,4 @@
 - `2026-11-15 10:48:52` `b636f123` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-15 10:48:52` `e80db5be` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-15 10:48:52` `9be8b1f7` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-11-15 10:48:52` `18bf37a1` “We inherited a broken world. That does not give us permission to break it further.”
