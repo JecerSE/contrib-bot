@@ -885,3 +885,4 @@
 - `2026-11-15 10:48:52` `63d42ae7` “A flag cannot bury the people who died beneath it.”
 - `2026-11-15 10:48:52` `341e89fc` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-11-15 10:48:52` `898a997d` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-11-15 10:48:52` `2d346779` “We call it the cost of progress when we do not want to admit who paid the price.”
