@@ -892,3 +892,4 @@
 - `2026-11-15 10:48:52` `eda5cdf8` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-15 10:48:52` `aae276bd` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
 - `2026-11-15 10:48:52` `a34271ae` “The past is not a prison unless we keep rebuilding its walls.”
+- `2026-11-15 10:48:52` `b0d9f054` “The cruelest chains are those we convince ourselves we deserve.”
