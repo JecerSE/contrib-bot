@@ -899,3 +899,4 @@
 - `2026-11-15 10:48:52` `3adc3606` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-11-15 10:48:52` `909c2277` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
 - `2026-11-15 10:48:52` `6afd553f` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
+- `2026-11-15 10:48:52` `0496172d` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
