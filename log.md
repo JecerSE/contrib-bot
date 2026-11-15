@@ -877,3 +877,4 @@
 - `2026-11-15 10:48:52` `eb35b3ab` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
 - `2026-11-15 10:48:52` `fe5f5d21` “We survived the catastrophe, yet somehow forgot how to live.”
 - `2026-11-15 10:48:52` `48316ba9` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
+- `2026-11-15 10:48:52` `d1902a65` “A child should never have to understand why the world hates them.”
