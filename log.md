@@ -894,3 +894,4 @@
 - `2026-11-15 10:48:52` `a34271ae` “The past is not a prison unless we keep rebuilding its walls.”
 - `2026-11-15 10:48:52` `b0d9f054` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-11-15 10:48:52` `7125380d` “We are not innocent merely because our enemies are cruel.”
+- `2026-11-15 10:48:52` `5a7025a5` “There is no glory in war for those who must live with its consequences.”
