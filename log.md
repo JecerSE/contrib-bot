@@ -871,3 +871,4 @@
 - `2026-11-15 10:48:52` `94180e5e` “A child should never have to understand why the world hates them.”
 - `2026-11-15 10:48:52` `fb1d08c7` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-15 10:48:52` `473ceae1` “We are not innocent merely because our enemies are cruel.”
+- `2026-11-15 10:48:52` `f8860d0c` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
