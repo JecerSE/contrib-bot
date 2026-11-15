@@ -903,3 +903,4 @@
 - `2026-11-15 10:48:52` `c25199f0` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
 - `2026-11-15 10:48:52` `2108398a` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-15 10:48:52` `b636f123` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
+- `2026-11-15 10:48:52` `e80db5be` “The most dangerous lie is the one that makes cruelty feel necessary.”
