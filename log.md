@@ -908,3 +908,4 @@
 - `2026-11-15 10:48:52` `18bf37a1` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-11-15 10:48:52` `510fd3ca` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-15 10:48:52` `982429bc` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-15 10:48:52` `01e82a65` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
