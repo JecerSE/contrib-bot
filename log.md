@@ -896,3 +896,4 @@
 - `2026-11-15 10:48:52` `7125380d` “We are not innocent merely because our enemies are cruel.”
 - `2026-11-15 10:48:52` `5a7025a5` “There is no glory in war for those who must live with its consequences.”
 - `2026-11-15 10:48:52` `a8b83af6` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
+- `2026-11-15 10:48:52` `3adc3606` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
