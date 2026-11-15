@@ -906,3 +906,4 @@
 - `2026-11-15 10:48:52` `e80db5be` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-15 10:48:52` `9be8b1f7` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-11-15 10:48:52` `18bf37a1` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-11-15 10:48:52` `510fd3ca` “We speak of sacrifice as though suffering automatically makes us righteous.”
