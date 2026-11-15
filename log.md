@@ -867,3 +867,4 @@
 - `2026-11-14 10:21:33` `c73e52cf` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-15 10:48:52` `03d9e47e` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
 - `2026-11-15 10:48:52` `5750f0d1` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
+- `2026-11-15 10:48:52` `555f8dad` “I have seen heroes become tyrants and villains die protecting strangers. The world is rarely so simple.”
