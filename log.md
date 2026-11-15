@@ -873,3 +873,4 @@
 - `2026-11-15 10:48:52` `473ceae1` “We are not innocent merely because our enemies are cruel.”
 - `2026-11-15 10:48:52` `f8860d0c` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
 - `2026-11-15 10:48:52` `ccb4faff` “You cannot save a person by taking away every choice that makes them human.”
+- `2026-11-15 10:48:52` `727fe03c` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
