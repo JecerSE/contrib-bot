@@ -904,3 +904,4 @@
 - `2026-11-15 10:48:52` `2108398a` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-15 10:48:52` `b636f123` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-15 10:48:52` `e80db5be` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-11-15 10:48:52` `9be8b1f7` “The cruelest chains are those we convince ourselves we deserve.”
