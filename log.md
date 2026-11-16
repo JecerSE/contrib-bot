@@ -912,3 +912,4 @@
 - `2026-11-16 11:11:22` `905408f8` “The snow covers every footprint eventually. It does not mean no one ever walked there.”
 - `2026-11-16 11:11:22` `55c9339f` “History remembers the victors. The land remembers everyone.”
 - `2026-11-16 11:11:22` `5a8d5144` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
+- `2026-11-16 11:11:22` `af5463bc` “No ideology can absolve a person of the suffering they knowingly inflict.”
