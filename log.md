@@ -933,3 +933,4 @@
 - `2026-11-17 11:48:06` `1becbd8c` “The world calls us dangerous because it is easier than admitting what made us this way.”
 - `2026-11-17 11:48:06` `e224dcec` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-17 11:48:06` `f36e676e` “We call it the cost of progress when we do not want to admit who paid the price.”
+- `2026-11-17 11:48:06` `d34f25c0` “We do not owe the past our obedience. We owe the future our honesty.”
