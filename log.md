@@ -946,3 +946,4 @@
 - `2026-11-17 11:48:06` `ed5cf9ed` “What is a nation worth if its people must disappear for it to survive?”
 - `2026-11-17 11:48:06` `a7d2b60e` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
 - `2026-11-17 11:48:06` `cd36647e` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-11-17 11:48:06` `1e2caf26` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
