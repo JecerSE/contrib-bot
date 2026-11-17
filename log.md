@@ -931,3 +931,4 @@
 - `2026-11-17 11:48:06` `0d6cfb88` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
 - `2026-11-17 11:48:06` `5f73d8b3` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-17 11:48:06` `1becbd8c` “The world calls us dangerous because it is easier than admitting what made us this way.”
+- `2026-11-17 11:48:06` `e224dcec` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
