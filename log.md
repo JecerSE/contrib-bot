@@ -937,3 +937,4 @@
 - `2026-11-17 11:48:06` `985ed23b` “There is no glory in war for those who must live with its consequences.”
 - `2026-11-17 11:48:06` `8c8e0f39` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-17 11:48:06` `21d52fb5` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
+- `2026-11-17 11:48:06` `e845a6b1` “You cannot save everyone. But that does not make the ones you save insignificant.”
