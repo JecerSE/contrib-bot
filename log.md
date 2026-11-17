@@ -941,3 +941,4 @@
 - `2026-11-17 11:48:06` `71c2ecb9` “There is no glory in war for those who must live with its consequences.”
 - `2026-11-17 11:48:06` `fb72aebf` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-11-17 11:48:06` `ed3df089` “A name is the smallest monument we can give someone who has disappeared.”
+- `2026-11-17 11:48:06` `fb302d96` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
