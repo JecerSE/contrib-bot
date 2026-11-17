@@ -950,3 +950,4 @@
 - `2026-11-17 11:48:06` `1da3475e` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
 - `2026-11-17 11:48:06` `736d5c68` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-11-17 11:48:06` `b3b163a4` “When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
+- `2026-11-17 11:48:06` `2abfefaa` “You cannot save everyone. But that does not make the ones you save insignificant.”
