@@ -952,3 +952,4 @@
 - `2026-11-17 11:48:06` `b3b163a4` “When the world asks you to become a monster, surviving with your humanity intact is a victory of its own.”
 - `2026-11-17 11:48:06` `2abfefaa` “You cannot save everyone. But that does not make the ones you save insignificant.”
 - `2026-11-17 11:48:06` `4f4035a8` “The future is not innocent simply because it has not happened yet.”
+- `2026-11-17 11:48:06` `4c1a090d` “A hero is often just the person who remained when everyone else found a reason to leave.”
