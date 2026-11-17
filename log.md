@@ -932,3 +932,4 @@
 - `2026-11-17 11:48:06` `5f73d8b3` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-17 11:48:06` `1becbd8c` “The world calls us dangerous because it is easier than admitting what made us this way.”
 - `2026-11-17 11:48:06` `e224dcec` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-17 11:48:06` `f36e676e` “We call it the cost of progress when we do not want to admit who paid the price.”
