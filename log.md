@@ -921,3 +921,4 @@
 - `2026-11-17 11:48:05` `0cbdf71f` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
 - `2026-11-17 11:48:06` `083e308e` “The strongest walls are often built by those who are most afraid.”
 - `2026-11-17 11:48:06` `d9eca916` “Sometimes the bravest thing a warrior can do is put down their weapon.”
+- `2026-11-17 11:48:06` `7cddabda` “There is a difference between enduring suffering and convincing yourself that suffering is all you deserve.”
