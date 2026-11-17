@@ -916,3 +916,4 @@
 - `2026-11-16 11:11:22` `9744d5cc` “The world calls us dangerous because it is easier than admitting what made us this way.”
 - `2026-11-16 11:11:22` `77b42483` “A promise made to the dead is meaningless if we abandon the living to keep it.”
 - `2026-11-17 11:48:05` `fca75c33` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-11-17 11:48:05` `aa1f837b` “Sometimes the bravest thing a warrior can do is put down their weapon.”
