@@ -925,3 +925,4 @@
 - `2026-11-17 11:48:06` `9d193480` “Even now, after everything, I still want to believe that people can choose differently.”
 - `2026-11-17 11:48:06` `1605471c` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-17 11:48:06` `fb4613e1` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
+- `2026-11-17 11:48:06` `fc596486` “Doctor, when this is all over, let us build a world where no one has to ask whether they deserve to live.”
