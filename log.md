@@ -935,3 +935,4 @@
 - `2026-11-17 11:48:06` `f36e676e` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-11-17 11:48:06` `d34f25c0` “We do not owe the past our obedience. We owe the future our honesty.”
 - `2026-11-17 11:48:06` `985ed23b` “There is no glory in war for those who must live with its consequences.”
+- `2026-11-17 11:48:06` `8c8e0f39` “The dead may be beyond our reach, but the living are still our responsibility.”
