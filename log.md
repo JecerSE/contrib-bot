@@ -943,3 +943,4 @@
 - `2026-11-17 11:48:06` `ed3df089` “A name is the smallest monument we can give someone who has disappeared.”
 - `2026-11-17 11:48:06` `fb302d96` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
 - `2026-11-17 11:48:06` `8d0a01a8` “If you must hate someone, at least have the courage to look them in the eyes.”
+- `2026-11-17 11:48:06` `ed5cf9ed` “What is a nation worth if its people must disappear for it to survive?”
