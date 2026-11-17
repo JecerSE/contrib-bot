@@ -918,3 +918,4 @@
 - `2026-11-17 11:48:05` `fca75c33` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-17 11:48:05` `aa1f837b` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-17 11:48:05` `8f614041` “The past is not a prison unless we keep rebuilding its walls.”
+- `2026-11-17 11:48:05` `0cbdf71f` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
