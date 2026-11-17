@@ -948,3 +948,4 @@
 - `2026-11-17 11:48:06` `cd36647e` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-17 11:48:06` `1e2caf26` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
 - `2026-11-17 11:48:06` `1da3475e` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
+- `2026-11-17 11:48:06` `736d5c68` “No one is born wanting to become a weapon. Someone always teaches them.”
