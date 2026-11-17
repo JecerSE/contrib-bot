@@ -920,3 +920,4 @@
 - `2026-11-17 11:48:05` `8f614041` “The past is not a prison unless we keep rebuilding its walls.”
 - `2026-11-17 11:48:05` `0cbdf71f` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
 - `2026-11-17 11:48:06` `083e308e` “The strongest walls are often built by those who are most afraid.”
+- `2026-11-17 11:48:06` `d9eca916` “Sometimes the bravest thing a warrior can do is put down their weapon.”
