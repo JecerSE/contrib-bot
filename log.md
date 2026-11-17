@@ -922,3 +922,4 @@
 - `2026-11-17 11:48:06` `083e308e` “The strongest walls are often built by those who are most afraid.”
 - `2026-11-17 11:48:06` `d9eca916` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-17 11:48:06` `7cddabda` “There is a difference between enduring suffering and convincing yourself that suffering is all you deserve.”
+- `2026-11-17 11:48:06` `9d193480` “Even now, after everything, I still want to believe that people can choose differently.”
