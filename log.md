@@ -940,3 +940,4 @@
 - `2026-11-17 11:48:06` `e845a6b1` “You cannot save everyone. But that does not make the ones you save insignificant.”
 - `2026-11-17 11:48:06` `71c2ecb9` “There is no glory in war for those who must live with its consequences.”
 - `2026-11-17 11:48:06` `fb72aebf` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
+- `2026-11-17 11:48:06` `ed3df089` “A name is the smallest monument we can give someone who has disappeared.”
