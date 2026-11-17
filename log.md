@@ -947,3 +947,4 @@
 - `2026-11-17 11:48:06` `a7d2b60e` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
 - `2026-11-17 11:48:06` `cd36647e` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-17 11:48:06` `1e2caf26` “Sometimes the people who need saving most are the ones who have forgotten how to ask.”
+- `2026-11-17 11:48:06` `1da3475e` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
