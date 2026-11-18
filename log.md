@@ -979,3 +979,4 @@
 - `2026-11-18 11:37:04` `143a4d9b` “We call them casualties because numbers are easier to mourn than names.”
 - `2026-11-18 11:37:04` `c632551e` “You cannot undo a tragedy by becoming the next person who causes one.”
 - `2026-11-18 11:37:04` `80a384be` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
+- `2026-11-18 11:37:04` `ce1cf60e` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
