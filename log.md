@@ -964,3 +964,4 @@
 - `2026-11-18 11:37:03` `46cf98a1` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-18 11:37:03` `9dcbb059` “Hope is an unreasonable thing. Perhaps that is precisely why we need it.”
 - `2026-11-18 11:37:03` `7e50efac` “You cannot save everyone. But that does not make the ones you save insignificant.”
+- `2026-11-18 11:37:03` `7a908278` “I have seen heroes become tyrants and villains die protecting strangers. The world is rarely so simple.”
