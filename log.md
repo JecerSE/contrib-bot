@@ -977,3 +977,4 @@
 - `2026-11-18 11:37:04` `ac168dce` “You cannot build a home by teaching everyone inside it to fear the door.”
 - `2026-11-18 11:37:04` `e52de1b6` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-18 11:37:04` `143a4d9b` “We call them casualties because numbers are easier to mourn than names.”
+- `2026-11-18 11:37:04` `c632551e` “You cannot undo a tragedy by becoming the next person who causes one.”
