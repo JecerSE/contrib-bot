@@ -972,3 +972,4 @@
 - `2026-11-18 11:37:04` `1f7863d4` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-18 11:37:04` `e8470396` “I do not need the world to forgive me. I need it to stop making the same mistakes.”
 - `2026-11-18 11:37:04` `0510d10b` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
+- `2026-11-18 11:37:04` `b768138d` “We speak of sacrifice as though suffering automatically makes us righteous.”
