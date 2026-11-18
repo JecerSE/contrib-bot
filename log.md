@@ -981,3 +981,4 @@
 - `2026-11-18 11:37:04` `80a384be` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
 - `2026-11-18 11:37:04` `ce1cf60e` “Some people carry swords. Others carry the memory of everyone those swords have killed.”
 - `2026-11-18 11:37:04` `320bb09d` “A person who has lost everything can still decide what they will become next.”
+- `2026-11-18 11:37:04` `3e705042` “I remember every face I failed to save. That is why I cannot afford to stop.”
