@@ -960,3 +960,4 @@
 - `2026-11-18 11:37:03` `90949dde` “You cannot build a home by teaching everyone inside it to fear the door.”
 - `2026-11-18 11:37:03` `f80c7b92` “We cannot demand that people trust us while refusing to tell them what we are doing.”
 - `2026-11-18 11:37:03` `c6fb890b` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
+- `2026-11-18 11:37:03` `d4349786` “You cannot undo a tragedy by becoming the next person who causes one.”
