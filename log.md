@@ -957,3 +957,4 @@
 - `2026-11-17 11:48:06` `9c4d082b` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-11-17 11:48:06` `e4123531` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-18 11:37:03` `ad5955b5` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
+- `2026-11-18 11:37:03` `90949dde` “You cannot build a home by teaching everyone inside it to fear the door.”
