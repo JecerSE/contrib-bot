@@ -975,3 +975,4 @@
 - `2026-11-18 11:37:04` `b768138d` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-18 11:37:04` `8b336e46` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-11-18 11:37:04` `ac168dce` “You cannot build a home by teaching everyone inside it to fear the door.”
+- `2026-11-18 11:37:04` `e52de1b6` “Sometimes the bravest thing a warrior can do is put down their weapon.”
