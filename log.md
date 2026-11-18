@@ -969,3 +969,4 @@
 - `2026-11-18 11:37:04` `1927464c` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-11-18 11:37:04` `0db246e7` “I have seen heroes become tyrants and villains die protecting strangers. The world is rarely so simple.”
 - `2026-11-18 11:37:04` `73540454` “We inherited a broken world. That does not give us permission to break it further.”
+- `2026-11-18 11:37:04` `1f7863d4` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
