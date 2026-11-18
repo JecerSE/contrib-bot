@@ -958,3 +958,4 @@
 - `2026-11-17 11:48:06` `e4123531` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-18 11:37:03` `ad5955b5` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
 - `2026-11-18 11:37:03` `90949dde` “You cannot build a home by teaching everyone inside it to fear the door.”
+- `2026-11-18 11:37:03` `f80c7b92` “We cannot demand that people trust us while refusing to tell them what we are doing.”
