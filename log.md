@@ -985,3 +985,4 @@
 - `2026-11-19 11:35:12` `b8148d28` “A flag cannot bury the people who died beneath it.”
 - `2026-11-19 11:35:12` `ea9e1610` “The strongest walls are often built by those who are most afraid.”
 - `2026-11-19 11:35:12` `90bbb063` “What is a nation worth if its people must disappear for it to survive?”
+- `2026-11-19 11:35:12` `0a37ca2b` “A leader's greatest failure is not losing a battle. It is forgetting the people the battle was supposed to protect.”
