@@ -993,3 +993,4 @@
 - `2026-11-19 11:35:12` `6165b05b` “You cannot save everyone. But that does not make the ones you save insignificant.”
 - `2026-11-19 11:35:12` `833debca` “We are not innocent merely because our enemies are cruel.”
 - `2026-11-19 11:35:12` `8c9e66dd` “The world will always find a reason to wage war. We must find a better reason to end one.”
+- `2026-11-19 11:35:12` `e06fa914` “The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
