@@ -989,3 +989,4 @@
 - `2026-11-19 11:35:12` `9bda41d8` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-11-19 11:35:12` `886de6b4` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
 - `2026-11-19 11:35:12` `ed1ca4d9` “History remembers the victors. The land remembers everyone.”
+- `2026-11-19 11:35:12` `91af3eae` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
