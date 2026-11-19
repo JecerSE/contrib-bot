@@ -991,3 +991,4 @@
 - `2026-11-19 11:35:12` `ed1ca4d9` “History remembers the victors. The land remembers everyone.”
 - `2026-11-19 11:35:12` `91af3eae` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-11-19 11:35:12` `6165b05b` “You cannot save everyone. But that does not make the ones you save insignificant.”
+- `2026-11-19 11:35:12` `833debca` “We are not innocent merely because our enemies are cruel.”
