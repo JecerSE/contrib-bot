@@ -1006,3 +1006,4 @@
 - `2026-11-20 11:33:30` `3ae3fd94` “When the last light disappears, someone must remember that darkness was never the same thing as emptiness.”
 - `2026-11-20 11:33:30` `e38c867e` “Hope is an unreasonable thing. Perhaps that is precisely why we need it.”
 - `2026-11-20 11:33:30` `037421a0` “I remember every face I failed to save. That is why I cannot afford to stop.”
+- `2026-11-20 11:33:30` `ae21c457` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
