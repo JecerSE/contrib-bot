@@ -998,3 +998,4 @@
 - `2026-11-20 11:33:30` `26fef5e3` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
 - `2026-11-20 11:33:30` `6eb7ff27` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
 - `2026-11-20 11:33:30` `56c9597a` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
+- `2026-11-20 11:33:30` `abb2e27e` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
