@@ -1010,3 +1010,4 @@
 - `2026-11-20 11:33:30` `22ed7547` “The tragedy of immortality would not be living forever. It would be watching every reason to live disappear.”
 - `2026-11-20 11:33:30` `49db92f3` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
 - `2026-11-20 11:33:30` `43abdeff` “You cannot build a home by teaching everyone inside it to fear the door.”
+- `2026-11-20 11:33:30` `85209831` “The tragedy of immortality would not be living forever. It would be watching every reason to live disappear.”
