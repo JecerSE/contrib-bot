@@ -1002,3 +1002,4 @@
 - `2026-11-20 11:33:30` `2f7d85b3` “A monster is simply a person whose suffering no one bothered to understand.”
 - `2026-11-20 11:33:30` `a4d501ab` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
 - `2026-11-20 11:33:30` `ab88639c` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
+- `2026-11-20 11:33:30` `1cfc8e0d` “We call them casualties because numbers are easier to mourn than names.”
