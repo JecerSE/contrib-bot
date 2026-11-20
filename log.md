@@ -1003,3 +1003,4 @@
 - `2026-11-20 11:33:30` `a4d501ab` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
 - `2026-11-20 11:33:30` `ab88639c` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-11-20 11:33:30` `1cfc8e0d` “We call them casualties because numbers are easier to mourn than names.”
+- `2026-11-20 11:33:30` `3ae3fd94` “When the last light disappears, someone must remember that darkness was never the same thing as emptiness.”
