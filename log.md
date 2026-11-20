@@ -996,3 +996,4 @@
 - `2026-11-19 11:35:12` `e06fa914` “The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
 - `2026-11-20 11:33:30` `496d80ff` “In a world that has forgotten kindness, even a small mercy becomes an act of rebellion.”
 - `2026-11-20 11:33:30` `26fef5e3` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-11-20 11:33:30` `6eb7ff27` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
