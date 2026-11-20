@@ -999,3 +999,4 @@
 - `2026-11-20 11:33:30` `6eb7ff27` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
 - `2026-11-20 11:33:30` `56c9597a` “The dead do not ask for revenge. It is the living who refuse to let them rest.”
 - `2026-11-20 11:33:30` `abb2e27e` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
+- `2026-11-20 11:33:30` `2f7d85b3` “A monster is simply a person whose suffering no one bothered to understand.”
