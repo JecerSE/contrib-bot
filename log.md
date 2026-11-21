@@ -1016,3 +1016,4 @@
 - `2026-11-21 10:57:30` `a6521eed` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
 - `2026-11-21 10:57:30` `ce553d8f` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-11-21 10:57:30` `83f3e097` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-11-21 10:57:30` `f25bf41c` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
