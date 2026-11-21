@@ -1044,3 +1044,4 @@
 - `2026-11-21 10:57:31` `17a70666` “The most dangerous lie is the one that makes cruelty feel necessary.”
 - `2026-11-21 10:57:31` `2d4924dc` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-21 10:57:31` `cc9a9185` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-11-21 10:57:31` `44ac283f` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
