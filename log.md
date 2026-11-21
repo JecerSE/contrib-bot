@@ -1038,3 +1038,4 @@
 - `2026-11-21 10:57:31` `f6d10886` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-11-21 10:57:31` `6f676e9e` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
 - `2026-11-21 10:57:31` `1d0365f5` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-11-21 10:57:31` `bdf045f9` “If you must hate someone, at least have the courage to look them in the eyes.”
