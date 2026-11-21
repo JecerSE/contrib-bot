@@ -1049,3 +1049,4 @@
 - `2026-11-21 10:57:31` `e0dee146` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-21 10:57:31` `29f63a05` “We call it the cost of progress when we do not want to admit who paid the price.”
 - `2026-11-21 10:57:31` `119e2752` “No ideology can absolve a person of the suffering they knowingly inflict.”
+- `2026-11-21 10:57:31` `6e78409c` “No ideology can absolve a person of the suffering they knowingly inflict.”
