@@ -1056,3 +1056,4 @@
 - `2026-11-21 10:57:31` `8768028a` “I have seen heroes become tyrants and villains die protecting strangers. The world is rarely so simple.”
 - `2026-11-21 10:57:31` `c03d9942` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-11-21 10:57:31` `6d87de80` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
+- `2026-11-21 10:57:31` `9112d837` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
