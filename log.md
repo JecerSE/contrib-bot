@@ -1053,3 +1053,4 @@
 - `2026-11-21 10:57:31` `038ec70b` “The world calls us dangerous because it is easier than admitting what made us this way.”
 - `2026-11-21 10:57:31` `aadf61c1` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
 - `2026-11-21 10:57:31` `54fd3c11` “A monster is simply a person whose suffering no one bothered to understand.”
+- `2026-11-21 10:57:31` `8768028a` “I have seen heroes become tyrants and villains die protecting strangers. The world is rarely so simple.”
