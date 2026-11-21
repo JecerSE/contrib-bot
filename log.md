@@ -1018,3 +1018,4 @@
 - `2026-11-21 10:57:30` `83f3e097` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
 - `2026-11-21 10:57:30` `f25bf41c` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
 - `2026-11-21 10:57:30` `b71dd7db` “Sometimes the bravest thing a warrior can do is put down their weapon.”
+- `2026-11-21 10:57:30` `248ced60` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
