@@ -1030,3 +1030,4 @@
 - `2026-11-21 10:57:30` `2065cf0f` “You cannot save everyone. But that does not make the ones you save insignificant.”
 - `2026-11-21 10:57:30` `ab2c4f52` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
 - `2026-11-21 10:57:30` `d16007e5` “We call them casualties because numbers are easier to mourn than names.”
+- `2026-11-21 10:57:30` `03a5e126` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
