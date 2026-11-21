@@ -1046,3 +1046,4 @@
 - `2026-11-21 10:57:31` `cc9a9185` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
 - `2026-11-21 10:57:31` `44ac283f` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
 - `2026-11-21 10:57:31` `25563f8f` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
+- `2026-11-21 10:57:31` `e0dee146` “We speak of sacrifice as though suffering automatically makes us righteous.”
