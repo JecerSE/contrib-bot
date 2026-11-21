@@ -1021,3 +1021,4 @@
 - `2026-11-21 10:57:30` `248ced60` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-11-21 10:57:30` `bb82a293` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
 - `2026-11-21 10:57:30` `5db3a8f1` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
+- `2026-11-21 10:57:30` `8c2da740` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
