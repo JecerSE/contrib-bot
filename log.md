@@ -1042,3 +1042,4 @@
 - `2026-11-21 10:57:31` `1c9c2cc5` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
 - `2026-11-21 10:57:31` `566665d8` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
 - `2026-11-21 10:57:31` `17a70666` “The most dangerous lie is the one that makes cruelty feel necessary.”
+- `2026-11-21 10:57:31` `2d4924dc` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
