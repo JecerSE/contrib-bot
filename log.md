@@ -1032,3 +1032,4 @@
 - `2026-11-21 10:57:30` `d16007e5` “We call them casualties because numbers are easier to mourn than names.”
 - `2026-11-21 10:57:30` `03a5e126` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-21 10:57:31` `965b0527` “The strongest walls are often built by those who are most afraid.”
+- `2026-11-21 10:57:31` `1b2a83d0` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
