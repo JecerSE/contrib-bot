@@ -1036,3 +1036,4 @@
 - `2026-11-21 10:57:31` `41121ef3` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
 - `2026-11-21 10:57:31` `5e63cec5` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-21 10:57:31` `f6d10886` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
+- `2026-11-21 10:57:31` `6f676e9e` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
