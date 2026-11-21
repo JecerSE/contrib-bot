@@ -1051,3 +1051,4 @@
 - `2026-11-21 10:57:31` `119e2752` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-11-21 10:57:31` `6e78409c` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-11-21 10:57:31` `038ec70b` “The world calls us dangerous because it is easier than admitting what made us this way.”
+- `2026-11-21 10:57:31` `aadf61c1` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
