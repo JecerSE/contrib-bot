@@ -1014,3 +1014,4 @@
 - `2026-11-20 11:33:30` `d6834a12` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
 - `2026-11-21 10:57:30` `6afa45b3` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
 - `2026-11-21 10:57:30` `a6521eed` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
+- `2026-11-21 10:57:30` `ce553d8f` “No ideology can absolve a person of the suffering they knowingly inflict.”
