@@ -1024,3 +1024,4 @@
 - `2026-11-21 10:57:30` `8c2da740` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-11-21 10:57:30` `86da5844` “A child should never have to understand why the world hates them.”
 - `2026-11-21 10:57:30` `52e65a3d` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
+- `2026-11-21 10:57:30` `5e92b2a1` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
