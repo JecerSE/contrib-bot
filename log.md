@@ -1040,3 +1040,4 @@
 - `2026-11-21 10:57:31` `1d0365f5` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-11-21 10:57:31` `bdf045f9` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-11-21 10:57:31` `1c9c2cc5` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
+- `2026-11-21 10:57:31` `566665d8` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
