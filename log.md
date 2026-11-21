@@ -1034,3 +1034,4 @@
 - `2026-11-21 10:57:31` `965b0527` “The strongest walls are often built by those who are most afraid.”
 - `2026-11-21 10:57:31` `1b2a83d0` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-21 10:57:31` `41121ef3` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
+- `2026-11-21 10:57:31` `5e63cec5` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
