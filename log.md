@@ -1012,3 +1012,4 @@
 - `2026-11-20 11:33:30` `43abdeff` “You cannot build a home by teaching everyone inside it to fear the door.”
 - `2026-11-20 11:33:30` `85209831` “The tragedy of immortality would not be living forever. It would be watching every reason to live disappear.”
 - `2026-11-20 11:33:30` `d6834a12` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
+- `2026-11-21 10:57:30` `6afa45b3` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
