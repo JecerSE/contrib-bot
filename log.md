@@ -1047,3 +1047,4 @@
 - `2026-11-21 10:57:31` `44ac283f` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
 - `2026-11-21 10:57:31` `25563f8f` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
 - `2026-11-21 10:57:31` `e0dee146` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-11-21 10:57:31` `29f63a05` “We call it the cost of progress when we do not want to admit who paid the price.”
