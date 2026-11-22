@@ -1069,3 +1069,4 @@
 - `2026-11-22 11:17:23` `4c9e9159` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
 - `2026-11-22 11:17:23` `a745cbbb` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-11-22 11:17:23` `8c4abeb9` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
+- `2026-11-22 11:17:23` `4a880661` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
