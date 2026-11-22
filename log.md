@@ -1059,3 +1059,4 @@
 - `2026-11-21 10:57:31` `9112d837` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
 - `2026-11-21 10:57:31` `61fc4687` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-21 10:57:31` `da6ed152` “We do not owe the past our obedience. We owe the future our honesty.”
+- `2026-11-22 11:17:23` `9b3b0dd5` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
