@@ -1067,3 +1067,4 @@
 - `2026-11-22 11:17:23` `50f5711e` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
 - `2026-11-22 11:17:23` `06adfe20` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-22 11:17:23` `4c9e9159` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
+- `2026-11-22 11:17:23` `a745cbbb` “No ideology can absolve a person of the suffering they knowingly inflict.”
