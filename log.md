@@ -1062,3 +1062,4 @@
 - `2026-11-22 11:17:23` `9b3b0dd5` “If tomorrow must be built upon our graves, then let tomorrow at least be worth living in.”
 - `2026-11-22 11:17:23` `308c6ab9` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-22 11:17:23` `e6568b97` “The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
+- `2026-11-22 11:17:23` `703a081e` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
