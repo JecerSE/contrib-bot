@@ -1064,3 +1064,4 @@
 - `2026-11-22 11:17:23` `e6568b97` “The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
 - `2026-11-22 11:17:23` `703a081e` “Perhaps we are all just trying to find somewhere the world cannot hurt us.”
 - `2026-11-22 11:17:23` `2a09af9e` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
+- `2026-11-22 11:17:23` `50f5711e` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
