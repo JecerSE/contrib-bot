@@ -1072,3 +1072,4 @@
 - `2026-11-22 11:17:23` `4a880661` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
 - `2026-11-23 12:31:00` `ff933bde` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-11-23 12:31:00` `41d7fe2b` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-11-23 12:31:00` `751d256e` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
