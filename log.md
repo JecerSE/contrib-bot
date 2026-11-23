@@ -1070,3 +1070,4 @@
 - `2026-11-22 11:17:23` `a745cbbb` “No ideology can absolve a person of the suffering they knowingly inflict.”
 - `2026-11-22 11:17:23` `8c4abeb9` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-11-22 11:17:23` `4a880661` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
+- `2026-11-23 12:31:00` `ff933bde` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
