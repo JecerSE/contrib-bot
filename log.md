@@ -1092,3 +1092,4 @@
 - `2026-11-24 13:38:50` `a487a1d9` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
 - `2026-11-24 13:38:50` `6009ae8b` “We cannot demand that people trust us while refusing to tell them what we are doing.”
 - `2026-11-24 13:38:50` `d53fa6c2` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
+- `2026-11-24 13:38:50` `4c399136` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
