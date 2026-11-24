@@ -1096,3 +1096,4 @@
 - `2026-11-24 13:38:50` `60655983` “You cannot build a home by teaching everyone inside it to fear the door.”
 - `2026-11-24 13:38:50` `96db1e5a` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-24 13:38:50` `6cfb0835` “No one is born wanting to become a weapon. Someone always teaches them.”
+- `2026-11-24 13:38:50` `ab14d72f` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
