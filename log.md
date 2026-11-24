@@ -1109,3 +1109,4 @@
 - `2026-11-24 13:38:51` `68ac4bfe` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
 - `2026-11-24 13:38:51` `d40e84d9` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
 - `2026-11-24 13:38:51` `dab28274` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
+- `2026-11-24 13:38:51` `b0855072` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
