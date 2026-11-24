@@ -1087,3 +1087,4 @@
 - `2026-11-24 13:38:50` `1c8742a9` “You cannot save everyone. But that does not make the ones you save insignificant.”
 - `2026-11-24 13:38:50` `79ef21b8` “History remembers the victors. The land remembers everyone.”
 - `2026-11-24 13:38:50` `9845a866` “You cannot build a home by teaching everyone inside it to fear the door.”
+- `2026-11-24 13:38:50` `b5bb25d6` “Sometimes the bravest thing a warrior can do is put down their weapon.”
