@@ -1106,3 +1106,4 @@
 - `2026-11-24 13:38:51` `5fb6f1dd` “We inherited a broken world. That does not give us permission to break it further.”
 - `2026-11-24 13:38:51` `1df68e9b` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-11-24 13:38:51` `2fd2ba69` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-11-24 13:38:51` `68ac4bfe` “I would rather be betrayed by someone I trusted than become someone who trusts no one.”
