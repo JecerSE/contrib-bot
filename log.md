@@ -1085,3 +1085,4 @@
 - `2026-11-24 13:38:50` `ce6c19f6` “A child should never have to understand why the world hates them.”
 - `2026-11-24 13:38:50` `c00a7285` “A single act of kindness cannot repair the world, but it can change the world of the person who receives it.”
 - `2026-11-24 13:38:50` `1c8742a9` “You cannot save everyone. But that does not make the ones you save insignificant.”
+- `2026-11-24 13:38:50` `79ef21b8` “History remembers the victors. The land remembers everyone.”
