@@ -1076,3 +1076,4 @@
 - `2026-11-23 12:31:00` `69b47b3a` “We do not owe the past our obedience. We owe the future our honesty.”
 - `2026-11-23 12:31:00` `ae161c88` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-11-23 12:31:00` `e14d66db` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-11-24 13:38:50` `9803aae8` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
