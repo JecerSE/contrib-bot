@@ -1079,3 +1079,4 @@
 - `2026-11-24 13:38:50` `9803aae8` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-24 13:38:50` `55e944cb` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
 - `2026-11-24 13:38:50` `5351c8ef` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
+- `2026-11-24 13:38:50` `753186e0` “You may defeat an army and still lose everything worth defending.”
