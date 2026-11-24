@@ -1081,3 +1081,4 @@
 - `2026-11-24 13:38:50` `5351c8ef` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
 - `2026-11-24 13:38:50` `753186e0` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-24 13:38:50` `6b2e9f2a` “The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
+- `2026-11-24 13:38:50` `66d463fd` “Sometimes the bravest thing a warrior can do is put down their weapon.”
