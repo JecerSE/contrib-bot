@@ -1089,3 +1089,4 @@
 - `2026-11-24 13:38:50` `9845a866` “You cannot build a home by teaching everyone inside it to fear the door.”
 - `2026-11-24 13:38:50` `b5bb25d6` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-24 13:38:50` `23e570dc` “The greatest tragedy is not that people die. It is that we sometimes decide their deaths were inevitable.”
+- `2026-11-24 13:38:50` `a487a1d9` “I have no answer for why good people suffer. I only know that their suffering should never be treated as ordinary.”
