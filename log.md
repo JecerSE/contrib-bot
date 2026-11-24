@@ -1098,3 +1098,4 @@
 - `2026-11-24 13:38:50` `6cfb0835` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-11-24 13:38:50` `ab14d72f` “Doctor, how many lives must be sacrificed before victory becomes indistinguishable from defeat?”
 - `2026-11-24 13:38:50` `1b190526` “If you must hate someone, at least have the courage to look them in the eyes.”
+- `2026-11-24 13:38:50` `df601843` “If mercy is weakness, then perhaps the world has misunderstood strength.”
