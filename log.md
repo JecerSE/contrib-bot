@@ -1094,3 +1094,4 @@
 - `2026-11-24 13:38:50` `d53fa6c2` “A soldier's final prayer is rarely for victory. Usually, it is for someone waiting at home.”
 - `2026-11-24 13:38:50` `4c399136` “One day, someone will inherit the world we leave behind. I hope they will not have to understand us to forgive us.”
 - `2026-11-24 13:38:50` `60655983` “You cannot build a home by teaching everyone inside it to fear the door.”
+- `2026-11-24 13:38:50` `96db1e5a` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
