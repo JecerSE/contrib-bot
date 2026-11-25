@@ -1112,3 +1112,4 @@
 - `2026-11-24 13:38:51` `b0855072` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
 - `2026-11-24 13:38:51` `cbc2a0a3` “You cannot undo a tragedy by becoming the next person who causes one.”
 - `2026-11-24 13:38:51` `ec4e476d` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
+- `2026-11-25 12:48:13` `927b34ae` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
