@@ -1121,3 +1121,4 @@
 - `2026-11-25 12:48:13` `265dd889` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-25 12:48:13` `28739c13` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-25 12:48:13` `ef9ef83b` “You may defeat an army and still lose everything worth defending.”
+- `2026-11-25 12:48:13` `cd8ca375` “The cruelest chains are those we convince ourselves we deserve.”
