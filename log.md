@@ -1122,3 +1122,4 @@
 - `2026-11-25 12:48:13` `28739c13` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
 - `2026-11-25 12:48:13` `ef9ef83b` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-25 12:48:13` `cd8ca375` “The cruelest chains are those we convince ourselves we deserve.”
+- `2026-11-25 12:48:13` `c2aee04c` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
