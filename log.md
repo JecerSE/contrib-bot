@@ -1127,3 +1127,4 @@
 - `2026-11-25 12:48:13` `6c673fa9` “A monster is simply a person whose suffering no one bothered to understand.”
 - `2026-11-25 12:48:13` `7ad1fa4c` “There are people who survive every disaster only to spend the rest of their lives waiting for the next one.”
 - `2026-11-25 12:48:13` `e9d05549` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
+- `2026-11-25 12:48:13` `3806f53b` “You may defeat an army and still lose everything worth defending.”
