@@ -1113,3 +1113,4 @@
 - `2026-11-24 13:38:51` `cbc2a0a3` “You cannot undo a tragedy by becoming the next person who causes one.”
 - `2026-11-24 13:38:51` `ec4e476d` “I do not want to be remembered as someone who was right. I want to be remembered as someone who tried to do right.”
 - `2026-11-25 12:48:13` `927b34ae` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-11-25 12:48:13` `87bd2619` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
