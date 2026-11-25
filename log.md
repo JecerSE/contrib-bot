@@ -1129,3 +1129,4 @@
 - `2026-11-25 12:48:13` `e9d05549` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-25 12:48:13` `3806f53b` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-25 12:48:13` `e296b911` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-11-25 12:48:13` `6462fd37` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
