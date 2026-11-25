@@ -1123,3 +1123,4 @@
 - `2026-11-25 12:48:13` `ef9ef83b` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-25 12:48:13` `cd8ca375` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-11-25 12:48:13` `c2aee04c` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
+- `2026-11-25 12:48:13` `d7368d81` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
