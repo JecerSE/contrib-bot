@@ -1124,3 +1124,4 @@
 - `2026-11-25 12:48:13` `cd8ca375` “The cruelest chains are those we convince ourselves we deserve.”
 - `2026-11-25 12:48:13` `c2aee04c` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-11-25 12:48:13` `d7368d81` “Perhaps peace is not the absence of enemies, but the courage to stop creating them.”
+- `2026-11-25 12:48:13` `6c673fa9` “A monster is simply a person whose suffering no one bothered to understand.”
