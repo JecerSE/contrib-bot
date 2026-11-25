@@ -1115,3 +1115,4 @@
 - `2026-11-25 12:48:13` `927b34ae` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
 - `2026-11-25 12:48:13` `87bd2619` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
 - `2026-11-25 12:48:13` `d0175b00` “The past may explain our hatred, but it cannot excuse what we do with it.”
+- `2026-11-25 12:48:13` `905fb1e9` “A name is the smallest monument we can give someone who has disappeared.”
