@@ -1117,3 +1117,4 @@
 - `2026-11-25 12:48:13` `d0175b00` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-25 12:48:13` `905fb1e9` “A name is the smallest monument we can give someone who has disappeared.”
 - `2026-11-25 12:48:13` `0d1847f5` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-11-25 12:48:13` `f7851635` “We survived the catastrophe, yet somehow forgot how to live.”
