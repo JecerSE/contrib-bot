@@ -1120,3 +1120,4 @@
 - `2026-11-25 12:48:13` `f7851635` “We survived the catastrophe, yet somehow forgot how to live.”
 - `2026-11-25 12:48:13` `265dd889` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-25 12:48:13` `28739c13` “The weak do not need the powerful to pity them. They need the powerful to stop making them weak.”
+- `2026-11-25 12:48:13` `ef9ef83b` “You may defeat an army and still lose everything worth defending.”
