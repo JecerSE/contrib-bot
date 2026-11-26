@@ -1138,3 +1138,4 @@
 - `2026-11-26 12:26:30` `95afd0ef` “History remembers the victors. The land remembers everyone.”
 - `2026-11-26 12:26:30` `ded567d0` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-26 12:26:30` `f2e243f5` “You cannot save a person by taking away every choice that makes them human.”
+- `2026-11-26 12:26:30` `6227d6f9` “The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
