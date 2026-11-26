@@ -1139,3 +1139,4 @@
 - `2026-11-26 12:26:30` `ded567d0` “Sometimes the bravest thing a warrior can do is put down their weapon.”
 - `2026-11-26 12:26:30` `f2e243f5` “You cannot save a person by taking away every choice that makes them human.”
 - `2026-11-26 12:26:30` `6227d6f9` “The people who speak most confidently of sacrifice are rarely the ones asked to make it.”
+- `2026-11-26 12:26:30` `d1390115` “I remember every face I failed to save. That is why I cannot afford to stop.”
