@@ -1160,3 +1160,4 @@
 - `2026-11-26 12:26:31` `88129481` “A person who has lost everything can still decide what they will become next.”
 - `2026-11-26 12:26:31` `ea05ce14` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
 - `2026-11-26 12:26:31` `54d0e3cf` “Sometimes the bravest thing a warrior can do is put down their weapon.”
+- `2026-11-26 12:26:31` `226d1526` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
