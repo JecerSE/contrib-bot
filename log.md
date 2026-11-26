@@ -1137,3 +1137,4 @@
 - `2026-11-26 12:26:30` `c6c99ef8` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-26 12:26:30` `95afd0ef` “History remembers the victors. The land remembers everyone.”
 - `2026-11-26 12:26:30` `ded567d0` “Sometimes the bravest thing a warrior can do is put down their weapon.”
+- `2026-11-26 12:26:30` `f2e243f5` “You cannot save a person by taking away every choice that makes them human.”
