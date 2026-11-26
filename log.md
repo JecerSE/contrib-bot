@@ -1135,3 +1135,4 @@
 - `2026-11-26 12:26:30` `6fa9fc7d` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-11-26 12:26:30` `fab06bf9` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-26 12:26:30` `c6c99ef8` “You may defeat an army and still lose everything worth defending.”
+- `2026-11-26 12:26:30` `95afd0ef` “History remembers the victors. The land remembers everyone.”
