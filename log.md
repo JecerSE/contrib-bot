@@ -1170,3 +1170,4 @@
 - `2026-11-26 12:26:31` `68a832d7` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-11-26 12:26:31` `5855c37b` “A monster is simply a person whose suffering no one bothered to understand.”
 - `2026-11-26 12:26:31` `0b19496d` “Even if the world cannot be saved, the person standing beside you can still be worth saving.”
+- `2026-11-26 12:26:31` `38b4656a` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
