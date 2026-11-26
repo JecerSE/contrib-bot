@@ -1142,3 +1142,4 @@
 - `2026-11-26 12:26:30` `d1390115` “I remember every face I failed to save. That is why I cannot afford to stop.”
 - `2026-11-26 12:26:30` `c70b5d8d` “You cannot save a person by taking away every choice that makes them human.”
 - `2026-11-26 12:26:30` `4ee759ce` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
+- `2026-11-26 12:26:30` `d649545d` “History remembers the victors. The land remembers everyone.”
