@@ -1158,3 +1158,4 @@
 - `2026-11-26 12:26:31` `5b41afbb` “A person who has lost everything can still decide what they will become next.”
 - `2026-11-26 12:26:31` `11ac069b` “Hope is an unreasonable thing. Perhaps that is precisely why we need it.”
 - `2026-11-26 12:26:31` `88129481` “A person who has lost everything can still decide what they will become next.”
+- `2026-11-26 12:26:31` `ea05ce14` “Perhaps forgiveness is not forgetting what happened, but refusing to let it happen again.”
