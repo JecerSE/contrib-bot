@@ -1144,3 +1144,4 @@
 - `2026-11-26 12:26:30` `4ee759ce` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
 - `2026-11-26 12:26:30` `d649545d` “History remembers the victors. The land remembers everyone.”
 - `2026-11-26 12:26:30` `60882261` “You may defeat an army and still lose everything worth defending.”
+- `2026-11-26 12:26:30` `b8885aef` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
