@@ -1153,3 +1153,4 @@
 - `2026-11-26 12:26:31` `b9e6541a` “You call it peace because you have never been the one forced to kneel.”
 - `2026-11-26 12:26:31` `31ce7218` “In a world that has forgotten kindness, even a small mercy becomes an act of rebellion.”
 - `2026-11-26 12:26:31` `1365f1fc` “A name is the smallest monument we can give someone who has disappeared.”
+- `2026-11-26 12:26:31` `1bf9dc68` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
