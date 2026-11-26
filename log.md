@@ -1145,3 +1145,4 @@
 - `2026-11-26 12:26:30` `d649545d` “History remembers the victors. The land remembers everyone.”
 - `2026-11-26 12:26:30` `60882261` “You may defeat an army and still lose everything worth defending.”
 - `2026-11-26 12:26:30` `b8885aef` “A future without suffering may be impossible. A future where suffering is deliberately inflicted is a choice.”
+- `2026-11-26 12:26:30` `13d4d76b` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
