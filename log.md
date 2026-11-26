@@ -1148,3 +1148,4 @@
 - `2026-11-26 12:26:30` `13d4d76b` “I used to think justice meant making the guilty suffer. Now I wonder whether it means preventing another innocent person from suffering.”
 - `2026-11-26 12:26:30` `54465b3b` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
 - `2026-11-26 12:26:31` `692cea43` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
+- `2026-11-26 12:26:31` `7fea0621` “Tell me, if survival demands that we abandon our humanity, what exactly are we surviving for?”
