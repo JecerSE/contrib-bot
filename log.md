@@ -1168,3 +1168,4 @@
 - `2026-11-26 12:26:31` `8b64f225` “We survived the catastrophe, yet somehow forgot how to live.”
 - `2026-11-26 12:26:31` `e49f08d4` “Every revolution begins with a promise. Every revolution must eventually answer for what it becomes.”
 - `2026-11-26 12:26:31` `68a832d7` “If mercy is weakness, then perhaps the world has misunderstood strength.”
+- `2026-11-26 12:26:31` `5855c37b` “A monster is simply a person whose suffering no one bothered to understand.”
