@@ -1156,3 +1156,4 @@
 - `2026-11-26 12:26:31` `1bf9dc68` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
 - `2026-11-26 12:26:31` `32413d6d` “The past may explain our hatred, but it cannot excuse what we do with it.”
 - `2026-11-26 12:26:31` `5b41afbb` “A person who has lost everything can still decide what they will become next.”
+- `2026-11-26 12:26:31` `11ac069b` “Hope is an unreasonable thing. Perhaps that is precisely why we need it.”
