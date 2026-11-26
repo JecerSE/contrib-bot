@@ -1132,3 +1132,4 @@
 - `2026-11-25 12:48:13` `6462fd37` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-11-25 12:48:13` `e9e5b153` “If I close my eyes, I can pretend the battlefield is quiet. But I cannot pretend the voices are gone.”
 - `2026-11-26 12:26:30` `797e1db5` “The dead may be beyond our reach, but the living are still our responsibility.”
+- `2026-11-26 12:26:30` `6fa9fc7d` “Do not ask me whether I believe in humanity. Ask me what I am willing to do for it.”
