@@ -1174,3 +1174,4 @@
 - `2026-11-27 12:12:24` `de9402d9` “You call it peace because you have never been the one forced to kneel.”
 - `2026-11-27 12:12:24` `5f36f5b8` “A monster is simply a person whose suffering no one bothered to understand.”
 - `2026-11-27 12:12:24` `10a8a7a6` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
+- `2026-11-27 12:12:24` `b7ec5d04` “No one is born wanting to become a weapon. Someone always teaches them.”
