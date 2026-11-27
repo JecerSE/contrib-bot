@@ -1190,3 +1190,4 @@
 - `2026-11-27 12:12:25` `7e6c3ca6` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-27 12:12:25` `4ebe38e4` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
 - `2026-11-27 12:12:25` `54653beb` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
+- `2026-11-27 12:12:25` `72c7ec94` “If mercy is weakness, then perhaps the world has misunderstood strength.”
