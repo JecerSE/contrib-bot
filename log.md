@@ -1184,3 +1184,4 @@
 - `2026-11-27 12:12:25` `495f1986` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
 - `2026-11-27 12:12:25` `6762f0cc` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-27 12:12:25` `8989b21e` “We speak of sacrifice as though suffering automatically makes us righteous.”
+- `2026-11-27 12:12:25` `8a8710b5` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
