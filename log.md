@@ -1173,3 +1173,4 @@
 - `2026-11-26 12:26:31` `38b4656a` “I do not fear dying for a cause. I fear discovering that the cause never cared whether I lived.”
 - `2026-11-27 12:12:24` `de9402d9` “You call it peace because you have never been the one forced to kneel.”
 - `2026-11-27 12:12:24` `5f36f5b8` “A monster is simply a person whose suffering no one bothered to understand.”
+- `2026-11-27 12:12:24` `10a8a7a6` “If the truth destroys everything we built, perhaps everything we built deserved to be questioned.”
