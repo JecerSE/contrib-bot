@@ -1197,3 +1197,4 @@
 - `2026-11-27 12:12:25` `47566937` “A weapon cannot decide whether its wielder is right. That responsibility belongs to the hand that holds it.”
 - `2026-11-27 12:12:25` `1881f1eb` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-11-27 12:12:25` `0cac399a` “The cruelest thing about hatred is how easily it convinces us that we are the victims.”
+- `2026-11-27 12:12:25` `16933224` “The future is not innocent simply because it has not happened yet.”
