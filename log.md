@@ -1181,3 +1181,4 @@
 - `2026-11-27 12:12:24` `a3bf254f` “No one is born wanting to become a weapon. Someone always teaches them.”
 - `2026-11-27 12:12:25` `ebae1d28` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
 - `2026-11-27 12:12:25` `43a38087` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
+- `2026-11-27 12:12:25` `495f1986` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
