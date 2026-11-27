@@ -1200,3 +1200,4 @@
 - `2026-11-27 12:12:25` `16933224` “The future is not innocent simply because it has not happened yet.”
 - `2026-11-27 12:12:25` `f120fb8a` “We were born beneath the same sky, yet somehow learned to call one another enemies.”
 - `2026-11-27 12:12:25` `b933d71c` “Even a dying civilization leaves someone behind who remembers how to plant a seed.”
+- `2026-11-27 12:12:25` `d967d179` “I remember every face I failed to save. That is why I cannot afford to stop.”
