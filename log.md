@@ -1187,3 +1187,4 @@
 - `2026-11-27 12:12:25` `8a8710b5` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
 - `2026-11-27 12:12:25` `ea1972c8` “The strongest walls are often built by those who are most afraid.”
 - `2026-11-27 12:12:25` `f69b33b0` “The world will always find a reason to wage war. We must find a better reason to end one.”
+- `2026-11-27 12:12:25` `7e6c3ca6` “The dead may be beyond our reach, but the living are still our responsibility.”
