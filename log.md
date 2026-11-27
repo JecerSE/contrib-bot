@@ -1178,3 +1178,4 @@
 - `2026-11-27 12:12:24` `88d1f129` “Perhaps courage is simply being afraid and refusing to let fear make every decision.”
 - `2026-11-27 12:12:24` `161ac314` “I have no faith in destiny. I have faith in the person who chooses to defy it.”
 - `2026-11-27 12:12:24` `062baa11` “History remembers the victors. The land remembers everyone.”
+- `2026-11-27 12:12:24` `a3bf254f` “No one is born wanting to become a weapon. Someone always teaches them.”
