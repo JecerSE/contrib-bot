@@ -1210,3 +1210,4 @@
 - `2026-11-27 12:12:25` `52165809` “If you must hate someone, at least have the courage to look them in the eyes.”
 - `2026-11-27 12:12:25` `0e4ae039` “You cannot undo a tragedy by becoming the next person who causes one.”
 - `2026-11-27 12:12:25` `b9d9ff36` “If you believe your cause is just, you should be willing to question it.”
+- `2026-11-27 12:12:25` `f3b14823` “When everyone demands that you choose a side, refusing to hate can become its own kind of resistance.”
