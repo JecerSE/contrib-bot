@@ -1185,3 +1185,4 @@
 - `2026-11-27 12:12:25` `6762f0cc` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
 - `2026-11-27 12:12:25` `8989b21e` “We speak of sacrifice as though suffering automatically makes us righteous.”
 - `2026-11-27 12:12:25` `8a8710b5` “Do not mistake my silence for acceptance. Some wounds have simply exhausted their words.”
+- `2026-11-27 12:12:25` `ea1972c8` “The strongest walls are often built by those who are most afraid.”
