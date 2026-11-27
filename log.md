@@ -1189,3 +1189,4 @@
 - `2026-11-27 12:12:25` `f69b33b0` “The world will always find a reason to wage war. We must find a better reason to end one.”
 - `2026-11-27 12:12:25` `7e6c3ca6` “The dead may be beyond our reach, but the living are still our responsibility.”
 - `2026-11-27 12:12:25` `4ebe38e4` “We do not fight because we believe we can win. We fight because surrender has already cost us too much.”
+- `2026-11-27 12:12:25` `54653beb` “The future does not belong to those who predict it, but to those who refuse to surrender it.”
