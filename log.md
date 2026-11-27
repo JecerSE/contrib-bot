@@ -1193,3 +1193,4 @@
 - `2026-11-27 12:12:25` `72c7ec94` “If mercy is weakness, then perhaps the world has misunderstood strength.”
 - `2026-11-27 12:12:25` `a92e028b` “We cannot demand that people trust us while refusing to tell them what we are doing.”
 - `2026-11-27 12:12:25` `add76f2a` “We survived the catastrophe, yet somehow forgot how to live.”
+- `2026-11-27 12:12:25` `8bb74616` “The past may explain our hatred, but it cannot excuse what we do with it.”
