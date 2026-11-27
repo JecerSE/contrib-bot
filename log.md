@@ -1183,3 +1183,4 @@
 - `2026-11-27 12:12:25` `43a38087` “There is no greater cruelty than teaching a child that hatred is the only language the world understands.”
 - `2026-11-27 12:12:25` `495f1986` “I would rather face an uncertain future with my own choices than a perfect future someone chose for me.”
 - `2026-11-27 12:12:25` `6762f0cc` “The world does not owe us happiness. That does not mean we must surrender the right to seek it.”
+- `2026-11-27 12:12:25` `8989b21e` “We speak of sacrifice as though suffering automatically makes us righteous.”
